@@ -2,48 +2,52 @@
 body {
     margin: 0;
     padding: 0;
-    font-family: "MyCustomFont", sans-serif; /* Pixel-style font */
-    background: #000; /* Fallback for background */
+    font-family: "Gungeon", sans-serif;
 }
 
 @font-face {
-    font-family: 'MyCustomFont'; /* Name your font */
-    src: url('./Assests/enter-the-gungeon-big.ttf') format('truetype'); /* Adjust path and format */
+    font-family: 'Gungeon'; 
+    src: url('./Assests/enter-the-gungeon-big.ttf') format('truetype'); 
 }
 
 
-/* Background Styling */
+/* background styling */
 .background {
     background-image: url('./Assests/FoM-site-background.webp'); 
     background-size: cover;
     background-position: center;
-    height: 100vh;
+    background-repeat: no-repeat; 
+    min-height: 100vh;
+    width: 100%; 
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    padding: 20px; /* so objects arent flush*/
+    box-sizing: border-box; /* so padding doesnt 't affect dimensions */
 }
 
-/* Title Image Styling */
+
+/* title image styling */
 .title-image {
     image-rendering: pixelated;
     width: 300%; 
     display: block; 
     margin-left: 50%; 
     transform: translateX(-50%); 
-    margin-bottom: 25%; 
+    margin-bottom: 5%; 
 }
 
-/* Menu Styling */
+/* menu styling */
 .menu {
     display: flex;
     flex-direction: column;
     align-items: center; 
 }
 
-/* Pixel Button Image Styling */
+/* pixel button image styling */
 .pixel-button {
-    image-rendering: pixelated; /* Preserve sharp pixelation */
+    image-rendering: pixelated; /* preserve  pixelation */
     display: block;
     width: 200px; 
     height: auto; 
@@ -51,12 +55,12 @@ body {
     transition: opacity 0.2s ease; 
 }
 
-/* Hover Effect: Swap the Button Image */
+/* hover effect */
 .pixel-button:hover {
     content: url('./Assests/Menu-Button-Hover.png'); 
 }
 
-/* Button Container Styling */
+/* button container styling */
 .button-container {
     position: relative; 
     display: inline-block; 
@@ -64,7 +68,7 @@ body {
     height: auto; 
 }
 
-/* Button Image Styling */
+/* button image styling */
 .pixel-button {
     display: block;
     width: 100%; 
@@ -72,7 +76,7 @@ body {
     image-rendering: pixelated; 
 }
 
-/* Button Text Styling */
+/* button text styling */
 .button-text {
     position: absolute; 
     top: 50%; 
