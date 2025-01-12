@@ -1,10 +1,10 @@
 [
   {
+    "Image": "https://fieldsofmistria.wiki.gg/images/7/79/Alligator_gar.png",
     "Name": "Alligator Gar",
-    "Rarity": "Rare",
     "Shaodw": "Giant",
     "Season": "Winter",
-    "Special Weather": "",
+    "Weather": "Any",
     "Sell Price": 100,
     "Location": "Pond",
     "Musuem": "Yes",
@@ -12,11 +12,11 @@
     "Diveable": ""
   },
   {
+    "Image": "https://fieldsofmistria.wiki.gg/images/7/79/Anchovy.png",
     "Name": "Anchovy",
-    "Rarity": "Common",
     "Shaodw": "Small",
     "Season": "Spring",
-    "Special Weather": "",
+    "Weather": "Any",
     "Sell Price": 35,
     "Location": "Ocean",
     "Musuem": "Yes",
@@ -24,11 +24,11 @@
     "Diveable": "Yes"
   },
   {
+    "Image": "https://fieldsofmistria.wiki.gg/images/0/07/Angel_fish.png",
     "Name": "Angel Fish",
-    "Rarity": "Common",
     "Shaodw": "Small",
     "Season": "Spring",
-    "Special Weather": "",
+    "Weather": "Any",
     "Sell Price": 45,
     "Location": "Pond",
     "Musuem": "Yes",
@@ -36,11 +36,11 @@
     "Diveable": ""
   },
   {
+    "Image": "https://fieldsofmistria.wiki.gg/images/c/cc/Archerfish.png",
     "Name": "Archerfish",
-    "Rarity": "Uncommon",
     "Shaodw": "Small",
     "Season": "All",
-    "Special Weather": "",
+    "Weather": "Any",
     "Sell Price": 45,
     "Location": "Tide Caverns",
     "Musuem": "Yes",
@@ -48,11 +48,11 @@
     "Diveable": ""
   },
   {
+    "Image": "https://fieldsofmistria.wiki.gg/images/4/4d/Barb.png",
     "Name": "Barb",
-    "Rarity": "Common",
     "Shaodw": "Small",
     "Season": "Spring",
-    "Special Weather": "",
+    "Weather": "Any",
     "Sell Price": 40,
     "Location": "Pond",
     "Musuem": "Yes",
@@ -60,11 +60,11 @@
     "Diveable": ""
   },
   {
+    "Image": "https://fieldsofmistria.wiki.gg/images/a/a2/Bluegill.png",
     "Name": "Blue Gill",
-    "Rarity": "Common",
     "Shaodw": "Small",
     "Season": "Spring",
-    "Special Weather": "",
+    "Weather": "Any",
     "Sell Price": 40,
     "Location": "River",
     "Musuem": "Yes",
@@ -72,11 +72,11 @@
     "Diveable": ""
   },
   {
+    "Image": "https://fieldsofmistria.wiki.gg/images/8/88/Bluefish.png",
     "Name": "Bluefish",
-    "Rarity": "Common",
     "Shaodw": "Large",
     "Season": "Fall",
-    "Special Weather": "Rainy",
+    "Weather": "Rainy, Stormy",
     "Sell Price": 45,
     "Location": "Pond",
     "Musuem": "Yes",
@@ -84,11 +84,11 @@
     "Diveable": ""
   },
   {
+    "Image": "https://fieldsofmistria.wiki.gg/images/8/8a/Bonito.png",
     "Name": "Bonito",
-    "Rarity": "Common",
     "Shaodw": "Medium",
     "Season": "Summer, Winter",
-    "Special Weather": "",
+    "Weather": "Any",
     "Sell Price": 45,
     "Location": "Ocean",
     "Musuem": "No",
@@ -96,11 +96,11 @@
     "Diveable": ""
   },
   {
+    "Image": "https://fieldsofmistria.wiki.gg/images/f/f0/Bowfish.png",
     "Name": "Bowfish",
-    "Rarity": "Common",
     "Shaodw": "Large",
     "Season": "Winter",
-    "Special Weather": "",
+    "Weather": "Any",
     "Sell Price": 40,
     "Location": "River",
     "Musuem": "Yes",
@@ -108,11 +108,11 @@
     "Diveable": ""
   },
   {
+    "Image": "https://fieldsofmistria.wiki.gg/images/8/82/Bream.png",
     "Name": "Bream",
-    "Rarity": "Common",
     "Shaodw": "Large",
     "Season": "Summer",
-    "Special Weather": "",
+    "Weather": "Any",
     "Sell Price": 45,
     "Location": "River",
     "Musuem": "Yes",
@@ -120,11 +120,11 @@
     "Diveable": ""
   },
   {
+    "Image": "https://fieldsofmistria.wiki.gg/images/d/d5/Brown_bullhead.png",
     "Name": "Brown Bullhead",
-    "Rarity": "Common",
     "Shaodw": "Medium",
     "Season": "Summer",
-    "Special Weather": "",
+    "Weather": "Any",
     "Sell Price": 40,
     "Location": "Pond",
     "Musuem": "Yes",
@@ -132,11 +132,11 @@
     "Diveable": ""
   },
   {
+    "Image": "https://fieldsofmistria.wiki.gg/images/a/ac/Brown_trout.png",
     "Name": "Brown Trout",
-    "Rarity": "Common",
     "Shaodw": "Large",
     "Season": "Spring",
-    "Special Weather": "",
+    "Weather": "Any",
     "Sell Price": 50,
     "Location": "Pond",
     "Musuem": "Yes",
@@ -144,11 +144,11 @@
     "Diveable": ""
   },
   {
+    "Image": "https://fieldsofmistria.wiki.gg/images/d/da/Bullfrog.png",
     "Name": "Bullfrog",
-    "Rarity": "Common",
     "Shaodw": "Small",
     "Season": "Summer, Winter",
-    "Special Weather": "",
+    "Weather": "Rainy, Stormy, Snowy",
     "Sell Price": 45,
     "Location": "Pond",
     "Musuem": "No",
@@ -156,11 +156,11 @@
     "Diveable": ""
   },
   {
+    "Image": "https://fieldsofmistria.wiki.gg/images/6/62/Burbot.png",
     "Name": "Burbot",
-    "Rarity": "Common",
     "Shaodw": "Large",
     "Season": "Winter",
-    "Special Weather": "Snowy",
+    "Weather": "Snowy",
     "Sell Price": 45,
     "Location": "Pond",
     "Musuem": "Yes",
@@ -168,11 +168,11 @@
     "Diveable": ""
   },
   {
+    "Image": "https://fieldsofmistria.wiki.gg/images/a/a5/Butterfish.png",
     "Name": "Butterfish",
-    "Rarity": "Common",
     "Shaodw": "Small",
     "Season": "Fall",
-    "Special Weather": "",
+    "Weather": "Any",
     "Sell Price": 40,
     "Location": "Ocean",
     "Musuem": "Yes",
@@ -180,11 +180,11 @@
     "Diveable": ""
   },
   {
+    "Image": "https://fieldsofmistria.wiki.gg/images/9/99/Catfish.png",
     "Name": "Catfish",
-    "Rarity": "Uncommon",
     "Shaodw": "Medium",
     "Season": "All",
-    "Special Weather": "",
+    "Weather": "Any",
     "Sell Price": 80,
     "Location": "Pond",
     "Musuem": "No",
@@ -192,11 +192,11 @@
     "Diveable": ""
   },
   {
+    "Image": "https://fieldsofmistria.wiki.gg/images/0/0c/Cave_eel.png",
     "Name": "Cave Eel",
-    "Rarity": "Uncommon",
     "Shaodw": "Medium",
     "Season": "All",
-    "Special Weather": "",
+    "Weather": "Any",
     "Sell Price": 50,
     "Location": "Upper Mines",
     "Musuem": "Yes",
@@ -204,11 +204,11 @@
     "Diveable": ""
   },
   {
+    "Image": "https://fieldsofmistria.wiki.gg/images/a/a0/Cave_shark.png",
     "Name": "Cave Shark",
-    "Rarity": "Rare",
     "Shaodw": "Large",
     "Season": "All",
-    "Special Weather": "",
+    "Weather": "Any",
     "Sell Price": 80,
     "Location": "Upper Mines",
     "Musuem": "Yes",
@@ -216,11 +216,11 @@
     "Diveable": ""
   },
   {
+    "Image": "https://fieldsofmistria.wiki.gg/images/2/27/Cave_shrimp.png",
     "Name": "Cave Shrimp",
-    "Rarity": "Common",
     "Shaodw": "Small",
     "Season": "All",
-    "Special Weather": "",
+    "Weather": "Any",
     "Sell Price": 35,
     "Location": "Upper Mines",
     "Musuem": "Yes",
@@ -228,11 +228,11 @@
     "Diveable": ""
   },
   {
+    "Image": "https://fieldsofmistria.wiki.gg/images/d/d2/Char.png",
     "Name": "Char",
-    "Rarity": "Common",
     "Shaodw": "Large",
     "Season": "Summer",
-    "Special Weather": "",
+    "Weather": "Any",
     "Sell Price": 40,
     "Location": "Ocean",
     "Musuem": "Yes",
@@ -240,11 +240,11 @@
     "Diveable": ""
   },
   {
+    "Image": "https://fieldsofmistria.wiki.gg/images/7/73/Cherry_fish.png",
     "Name": "Cherry Fish",
-    "Rarity": "Legendary",
     "Shaodw": "Small",
     "Season": "Spring",
-    "Special Weather": "",
+    "Weather": "Windy",
     "Sell Price": "-",
     "Location": "Pond",
     "Musuem": "Yes",
@@ -252,11 +252,11 @@
     "Diveable": ""
   },
   {
+    "Image": "https://fieldsofmistria.wiki.gg/images/b/bd/Chub.png",
     "Name": "Chub",
-    "Rarity": "Common",
     "Shaodw": "Small",
     "Season": "Spring",
-    "Special Weather": "",
+    "Weather": "Any",
     "Sell Price": 45,
     "Location": "River",
     "Musuem": "Yes",
@@ -264,11 +264,11 @@
     "Diveable": ""
   },
   {
+    "Image": "https://fieldsofmistria.wiki.gg/images/2/29/Chum.png",
     "Name": "Chum",
-    "Rarity": "Uncommon",
     "Shaodw": "Large",
     "Season": "Summer, Winter",
-    "Special Weather": "",
+    "Weather": "Any",
     "Sell Price": 75,
     "Location": "River",
     "Musuem": "No",
@@ -276,11 +276,11 @@
     "Diveable": ""
   },
   {
+    "Image": "https://fieldsofmistria.wiki.gg/images/e/ed/Clam.png",
     "Name": "Clam",
-    "Rarity": "Common",
     "Shaodw": "Diving Only",
     "Season": "Any",
-    "Special Weather": "",
+    "Weather": "Any",
     "Sell Price": 20,
     "Location": "Ocean",
     "Musuem": "No",
@@ -288,11 +288,11 @@
     "Diveable": "Yes"
   },
   {
+    "Image": "https://fieldsofmistria.wiki.gg/images/4/41/Cod.png",
     "Name": "Cod",
-    "Rarity": "Common",
     "Shaodw": "Large",
     "Season": "Summer, Winter",
-    "Special Weather": "",
+    "Weather": "Any",
     "Sell Price": 45,
     "Location": "Ocean",
     "Musuem": "No",
@@ -300,11 +300,11 @@
     "Diveable": ""
   },
   {
+    "Image": "https://fieldsofmistria.wiki.gg/images/6/63/Crab.png",
     "Name": "Crab",
-    "Rarity": "Common",
     "Shaodw": "Small",
     "Season": "Summer",
-    "Special Weather": "",
+    "Weather": "Any",
     "Sell Price": 40,
     "Location": "Ocean",
     "Musuem": "Yes",
@@ -312,11 +312,11 @@
     "Diveable": ""
   },
   {
+    "Image": "https://fieldsofmistria.wiki.gg/images/5/53/Crayfish.png",
     "Name": "Crayfish",
-    "Rarity": "Common",
     "Shaodw": "Diving Only",
     "Season": "Any",
-    "Special Weather": "",
+    "Weather": "Any",
     "Sell Price": 25,
     "Location": "River",
     "Musuem": "No",
@@ -324,11 +324,11 @@
     "Diveable": "Yes"
   },
   {
+    "Image": "https://fieldsofmistria.wiki.gg/images/6/67/Crucian_carp.png",
     "Name": "Crucian Carp",
-    "Rarity": "Common",
     "Shaodw": "Medium",
     "Season": "Spring",
-    "Special Weather": "",
+    "Weather": "Any",
     "Sell Price": 40,
     "Location": "Pond",
     "Musuem": "Yes",
@@ -336,11 +336,11 @@
     "Diveable": ""
   },
   {
+    "Image": "https://fieldsofmistria.wiki.gg/images/2/23/Dace.png",
     "Name": "Dace",
-    "Rarity": "Common",
     "Shaodw": "Small",
     "Season": "Winter",
-    "Special Weather": "Snowy",
+    "Weather": "Snowy",
     "Sell Price": 45,
     "Location": "River",
     "Musuem": "Yes",
@@ -348,11 +348,11 @@
     "Diveable": ""
   },
   {
+    "Image": "https://fieldsofmistria.wiki.gg/images/2/29/Dart.png",
     "Name": "Dart",
-    "Rarity": "Common",
     "Shaodw": "Small",
     "Season": "Summer",
-    "Special Weather": "",
+    "Weather": "Any",
     "Sell Price": 45,
     "Location": "Ocean",
     "Musuem": "Yes",
@@ -360,11 +360,11 @@
     "Diveable": ""
   },
   {
+    "Image": "https://fieldsofmistria.wiki.gg/images/4/4a/Earth_eel.png",
     "Name": "Earth Eel",
-    "Rarity": "Common",
     "Shaodw": "Medium",
     "Season": "All",
-    "Special Weather": "",
+    "Weather": "Any",
     "Sell Price": 45,
     "Location": "Deep Earth",
     "Musuem": "Yes",
@@ -372,11 +372,11 @@
     "Diveable": ""
   },
   {
+    "Image": "https://fieldsofmistria.wiki.gg/images/2/20/Emerald_horned_charger.png",
     "Name": "Emerald-Horned Charger",
-    "Rarity": "Rare",
     "Shaodw": "Large",
     "Season": "All",
-    "Special Weather": "",
+    "Weather": "Any",
     "Sell Price": 120,
     "Location": "Deep Earth",
     "Musuem": "Yes",
@@ -384,11 +384,11 @@
     "Diveable": ""
   },
   {
+    "Image": "https://fieldsofmistria.wiki.gg/images/d/d9/Flathead_catfish.png",
     "Name": "Flathead Catfish",
-    "Rarity": "Common",
     "Shaodw": "Medium",
     "Season": "Winter",
-    "Special Weather": "",
+    "Weather": "Any",
     "Sell Price": 30,
     "Location": "Pond",
     "Musuem": "Yes",
@@ -396,11 +396,11 @@
     "Diveable": ""
   },
   {
+    "Image": "https://fieldsofmistria.wiki.gg/images/4/46/Freshwater_eel.png",
     "Name": "Freshwater Eel",
-    "Rarity": "Common",
     "Shaodw": "Medium",
     "Season": "Winter",
-    "Special Weather": "",
+    "Weather": "Any",
     "Sell Price": 45,
     "Location": "River",
     "Musuem": "Yes",
@@ -408,11 +408,11 @@
     "Diveable": ""
   },
   {
+    "Image": "https://fieldsofmistria.wiki.gg/images/e/e2/Freshwater_oyster.png",
     "Name": "Freshwater Oyster",
-    "Rarity": "Common",
     "Shaodw": "Diving Only",
     "Season": "Any",
-    "Special Weather": "",
+    "Weather": "Any",
     "Sell Price": 25,
     "Location": "River",
     "Musuem": "No",
@@ -420,11 +420,11 @@
     "Diveable": "Yes"
   },
   {
+    "Image": "https://fieldsofmistria.wiki.gg/images/e/e6/Frog.png",
     "Name": "Frog",
-    "Rarity": "Common",
     "Shaodw": "Small",
     "Season": "Spring, Fall",
-    "Special Weather": "",
+    "Weather": "Any",
     "Sell Price": 35,
     "Location": "Pond",
     "Musuem": "No",
@@ -432,11 +432,11 @@
     "Diveable": ""
   },
   {
+    "Image": "https://fieldsofmistria.wiki.gg/images/c/c6/Gar.png",
     "Name": "Gar",
-    "Rarity": "Common",
     "Shaodw": "Large",
     "Season": "Summer, Winter",
-    "Special Weather": "",
+    "Weather": "Any",
     "Sell Price": 35,
     "Location": "River",
     "Musuem": "No",
@@ -444,11 +444,11 @@
     "Diveable": "Yes"
   },
   {
+    "Image": "https://fieldsofmistria.wiki.gg/images/4/45/Giant_koi.png",
     "Name": "Giant Koi",
-    "Rarity": "Rare",
     "Shaodw": "Giant",
     "Season": "Summer",
-    "Special Weather": "",
+    "Weather": "Any",
     "Sell Price": 90,
     "Location": "Pond",
     "Musuem": "Yes",
@@ -456,11 +456,11 @@
     "Diveable": ""
   },
   {
+    "Image": "https://fieldsofmistria.wiki.gg/images/d/d7/Giant_tilapia.png",
     "Name": "Giant Tilapia",
-    "Rarity": "Uncommon",
     "Shaodw": "Giant",
     "Season": "Winter",
-    "Special Weather": "",
+    "Weather": "Any",
     "Sell Price": 80,
     "Location": "Pond",
     "Musuem": "Yes",
@@ -468,11 +468,11 @@
     "Diveable": ""
   },
   {
+    "Image": "https://fieldsofmistria.wiki.gg/images/6/67/Goby.png",
     "Name": "Goby",
-    "Rarity": "Uncommon",
     "Shaodw": "Medium",
     "Season": "All",
-    "Special Weather": "",
+    "Weather": "Any",
     "Sell Price": 70,
     "Location": "River",
     "Musuem": "No",
@@ -480,11 +480,11 @@
     "Diveable": ""
   },
   {
+    "Image": "https://fieldsofmistria.wiki.gg/images/2/23/Golden_shiner.png",
     "Name": "Golden Shiner",
-    "Rarity": "Common",
     "Shaodw": "Small",
     "Season": "Summer",
-    "Special Weather": "",
+    "Weather": "Any",
     "Sell Price": 45,
     "Location": "Pond",
     "Musuem": "Yes",
@@ -492,11 +492,11 @@
     "Diveable": ""
   },
   {
+    "Image": "https://fieldsofmistria.wiki.gg/images/0/02/Goldfish.png",
     "Name": "Goldfish",
-    "Rarity": "Rare",
     "Shaodw": "A rare small pond fish found in spring.",
     "Season": "Spring",
-    "Special Weather": "",
+    "Weather": "Any",
     "Sell Price": 120,
     "Location": "Pond",
     "Musuem": "Winter",
@@ -504,11 +504,11 @@
     "Diveable": ""
   },
   {
+    "Image": "https://fieldsofmistria.wiki.gg/images/1/11/Grayling.png",
     "Name": "Grayling",
-    "Rarity": "Common",
     "Shaodw": "Small",
     "Season": "Fall",
-    "Special Weather": "Rainy",
+    "Weather": "Rainy, Stormy",
     "Sell Price": 40,
     "Location": "River",
     "Musuem": "Yes",
@@ -516,11 +516,11 @@
     "Diveable": ""
   },
   {
+    "Image": "https://fieldsofmistria.wiki.gg/images/c/c4/Grouper.png",
     "Name": "Grouper",
-    "Rarity": "Rare",
     "Shaodw": "Giant",
     "Season": "Summer",
-    "Special Weather": "",
+    "Weather": "Any",
     "Sell Price": 90,
     "Location": "Ocean",
     "Musuem": "Yes",
@@ -528,11 +528,11 @@
     "Diveable": ""
   },
   {
+    "Image": "https://fieldsofmistria.wiki.gg/images/0/02/Halibut.png",
     "Name": "Halibut",
-    "Rarity": "Common",
     "Shaodw": "Large",
     "Season": "Fall",
-    "Special Weather": "Rainy",
+    "Weather": "Rainy, Stormy",
     "Sell Price": 50,
     "Location": "Ocean",
     "Musuem": "Yes",
@@ -540,11 +540,11 @@
     "Diveable": ""
   },
   {
+    "Image": "https://fieldsofmistria.wiki.gg/images/f/f1/Herring.png",
     "Name": "Herring",
-    "Rarity": "Common",
     "Shaodw": "Small",
     "Season": "Winter",
-    "Special Weather": "",
+    "Weather": "Any",
     "Sell Price": 45,
     "Location": "River",
     "Musuem": "Yes",
@@ -552,11 +552,11 @@
     "Diveable": ""
   },
   {
+    "Image": "https://fieldsofmistria.wiki.gg/images/e/ed/Horse_mackerel.png",
     "Name": "Horse Mackerel",
-    "Rarity": "Common",
     "Shaodw": "Small",
     "Season": "Winter",
-    "Special Weather": "",
+    "Weather": "Any",
     "Sell Price": 40,
     "Location": "Ocean",
     "Musuem": "Yes",
@@ -564,11 +564,11 @@
     "Diveable": ""
   },
   {
+    "Image": "https://fieldsofmistria.wiki.gg/images/2/22/Jellyfish.png",
     "Name": "Jellyfish",
-    "Rarity": "Uncommon",
     "Shaodw": "Medium",
     "Season": "Spring, Fall",
-    "Special Weather": "",
+    "Weather": "Any",
     "Sell Price": 80,
     "Location": "Ocean",
     "Musuem": "No",
@@ -576,11 +576,11 @@
     "Diveable": ""
   },
   {
+    "Image": "https://fieldsofmistria.wiki.gg/images/1/10/Killifish.png",
     "Name": "Killifish",
-    "Rarity": "Common",
     "Shaodw": "Small",
     "Season": "Fall",
-    "Special Weather": "",
+    "Weather": "Any",
     "Sell Price": 40,
     "Location": "Pond",
     "Musuem": "Yes",
@@ -588,11 +588,11 @@
     "Diveable": ""
   },
   {
+    "Image": "https://fieldsofmistria.wiki.gg/images/7/76/King_crab.png",
     "Name": "King Crab",
-    "Rarity": "Common",
     "Shaodw": "Large",
     "Season": "Winter",
-    "Special Weather": "Snowy",
+    "Weather": "Snowy",
     "Sell Price": 45,
     "Location": "Ocean",
     "Musuem": "Yes",
@@ -600,11 +600,11 @@
     "Diveable": ""
   },
   {
+    "Image": "https://fieldsofmistria.wiki.gg/images/6/66/Koi.png",
     "Name": "Koi",
-    "Rarity": "Common",
     "Shaodw": "Medium",
     "Season": "All",
-    "Special Weather": "",
+    "Weather": "Any",
     "Sell Price": 40,
     "Location": "Pond",
     "Musuem": "Yes",
@@ -612,11 +612,11 @@
     "Diveable": ""
   },
   {
+    "Image": "https://fieldsofmistria.wiki.gg/images/4/46/Lake_chub.png",
     "Name": "Lake Chub",
-    "Rarity": "Common",
     "Shaodw": "Small",
     "Season": "Summer",
-    "Special Weather": "",
+    "Weather": "Any",
     "Sell Price": 35,
     "Location": "Pond",
     "Musuem": "Yes",
@@ -624,11 +624,11 @@
     "Diveable": ""
   },
   {
+    "Image": "https://fieldsofmistria.wiki.gg/images/2/2c/Lamprey.png",
     "Name": "Lamprey",
-    "Rarity": "Common",
     "Shaodw": "Small",
     "Season": "Fall",
-    "Special Weather": "",
+    "Weather": "Any",
     "Sell Price": 70,
     "Location": "River",
     "Musuem": "Yes",
@@ -636,11 +636,11 @@
     "Diveable": ""
   },
   {
+    "Image": "https://fieldsofmistria.wiki.gg/images/0/04/Leaf_fish.png",
     "Name": "Leaf Fish",
-    "Rarity": "Legendary",
     "Shaodw": "Small",
     "Season": "Fall",
-    "Special Weather": "Breezy",
+    "Weather": "Windy",
     "Sell Price": 500,
     "Location": "River",
     "Musuem": "Yes",
@@ -648,23 +648,23 @@
     "Diveable": ""
   },
   {
+    "Image": "https://fieldsofmistria.wiki.gg/images/b/b4/Lightning_fish.png",
     "Name": "Lightning Fish",
-    "Rarity": "Legendary",
     "Shaodw": "Medium",
     "Season": "Summer",
-    "Special Weather": "Stormy",
+    "Weather": "Stormy",
     "Sell Price": 500,
     "Location": "River",
-    "Musuem": "",
-    "Donation Wing": "",
+    "Musuem": "Yes",
+    "Donation Wing": "Legendary",
     "Diveable": ""
   },
   {
+    "Image": "https://fieldsofmistria.wiki.gg/images/4/44/Loach.png",
     "Name": "Loach",
-    "Rarity": "Common",
     "Shaodw": "Small",
     "Season": "Summer",
-    "Special Weather": "",
+    "Weather": "Any",
     "Sell Price": 45,
     "Location": "River",
     "Musuem": "Yes",
@@ -672,11 +672,11 @@
     "Diveable": ""
   },
   {
+    "Image": "https://fieldsofmistria.wiki.gg/images/9/9f/Lobster.png",
     "Name": "Lobster",
-    "Rarity": "Common",
     "Shaodw": "Medium",
     "Season": "Spring",
-    "Special Weather": "",
+    "Weather": "Any",
     "Sell Price": 40,
     "Location": "Ocean",
     "Musuem": "Yes",
@@ -684,11 +684,11 @@
     "Diveable": ""
   },
   {
+    "Image": "https://fieldsofmistria.wiki.gg/images/7/7e/Mackerel.png",
     "Name": "Mackerel",
-    "Rarity": "Common",
     "Shaodw": "Large",
     "Season": "Spring",
-    "Special Weather": "Rainy",
+    "Weather": "Rainy, Stormy",
     "Sell Price": 45,
     "Location": "Ocean",
     "Musuem": "Yes",
@@ -696,11 +696,11 @@
     "Diveable": ""
   },
   {
+    "Image": "https://fieldsofmistria.wiki.gg/images/6/66/Mini_whale_shark.png",
     "Name": "Mini-Whale Shark",
-    "Rarity": "Rare",
     "Shaodw": "Large",
     "Season": "All",
-    "Special Weather": "",
+    "Weather": "Any",
     "Sell Price": 100,
     "Location": "Tide Caverns",
     "Musuem": "Yes",
@@ -708,11 +708,11 @@
     "Diveable": ""
   },
   {
+    "Image": "https://fieldsofmistria.wiki.gg/images/8/8e/Minnow.png",
     "Name": "Minnow",
-    "Rarity": "Common",
     "Shaodw": "Small",
     "Season": "Summer",
-    "Special Weather": "",
+    "Weather": "Any",
     "Sell Price": 40,
     "Location": "River",
     "Musuem": "Yes",
@@ -720,11 +720,11 @@
     "Diveable": ""
   },
   {
+    "Image": "https://fieldsofmistria.wiki.gg/images/a/a4/Mullet.png",
     "Name": "Mullet",
-    "Rarity": "Common",
     "Shaodw": "Medium",
     "Season": "Fall",
-    "Special Weather": "",
+    "Weather": "Any",
     "Sell Price": 40,
     "Location": "Ocean",
     "Musuem": "Yes",
@@ -732,11 +732,11 @@
     "Diveable": ""
   },
   {
+    "Image": "https://fieldsofmistria.wiki.gg/images/7/77/Newt.png",
     "Name": "Newt",
-    "Rarity": "Common",
     "Shaodw": "Diving Only",
     "Season": "Any",
-    "Special Weather": "",
+    "Weather": "Any",
     "Sell Price": 45,
     "Location": "Pond",
     "Musuem": "No",
@@ -744,11 +744,11 @@
     "Diveable": "Yes"
   },
   {
+    "Image": "https://fieldsofmistria.wiki.gg/images/6/6b/Oarfish.png",
     "Name": "Oarfish",
-    "Rarity": "Rare",
     "Shaodw": "Giant",
     "Season": "Winter",
-    "Special Weather": "",
+    "Weather": "Any",
     "Sell Price": 100,
     "Location": "Ocean",
     "Musuem": "Yes",
@@ -756,11 +756,11 @@
     "Diveable": ""
   },
   {
+    "Image": "https://fieldsofmistria.wiki.gg/images/6/65/Ocean_sunfish.png",
     "Name": "Ocean Sunfish",
-    "Rarity": "Rare",
     "Shaodw": "Giant",
     "Season": "Spring",
-    "Special Weather": "",
+    "Weather": "Any",
     "Sell Price": 80,
     "Location": "Ocean",
     "Musuem": "Yes",
@@ -768,11 +768,11 @@
     "Diveable": ""
   },
   {
+    "Image": "https://fieldsofmistria.wiki.gg/images/5/5a/Octopus.png",
     "Name": "Octopus",
-    "Rarity": "Uncommon",
     "Shaodw": "Large",
     "Season": "Summer, Winter",
-    "Special Weather": "",
+    "Weather": "Any",
     "Sell Price": 70,
     "Location": "Ocean",
     "Musuem": "No",
@@ -780,11 +780,11 @@
     "Diveable": ""
   },
   {
+    "Image": "https://fieldsofmistria.wiki.gg/images/1/1d/Paddlefish.png",
     "Name": "Paddlefish",
-    "Rarity": "Rare",
     "Shaodw": "Giant",
     "Season": "Spring",
-    "Special Weather": "",
+    "Weather": "Any",
     "Sell Price": 90,
     "Location": "River",
     "Musuem": "Yes",
@@ -792,11 +792,11 @@
     "Diveable": ""
   },
   {
+    "Image": "https://fieldsofmistria.wiki.gg/images/2/2f/Paper_pondshell.png",
     "Name": "Paper Pondshell",
-    "Rarity": "Common",
     "Shaodw": "Diving Only",
     "Season": "Any",
-    "Special Weather": "",
+    "Weather": "Any",
     "Sell Price": 20,
     "Location": "Pond",
     "Musuem": "No",
@@ -804,11 +804,11 @@
     "Diveable": "Yes"
   },
   {
+    "Image": "https://fieldsofmistria.wiki.gg/images/b/b7/Pearl_clam.png",
     "Name": "Pearl Clam",
-    "Rarity": "Common",
     "Shaodw": "Diving Only",
     "Season": "Any",
-    "Special Weather": "",
+    "Weather": "Any",
     "Sell Price": 25,
     "Location": "Ocean",
     "Musuem": "No",
@@ -816,11 +816,11 @@
     "Diveable": "Yes"
   },
   {
+    "Image": "https://fieldsofmistria.wiki.gg/images/f/f2/Pebble_minnow.png",
     "Name": "Pebble Minnow",
-    "Rarity": "Common",
     "Shaodw": "Small",
     "Season": "All",
-    "Special Weather": "",
+    "Weather": "Any",
     "Sell Price": 45,
     "Location": "Deep Earth",
     "Musuem": "Yes",
@@ -828,11 +828,11 @@
     "Diveable": ""
   },
   {
+    "Image": "https://fieldsofmistria.wiki.gg/images/4/43/Perch.png",
     "Name": "Perch",
-    "Rarity": "Common",
     "Shaodw": "Large",
     "Season": "Fall",
-    "Special Weather": "Rainy",
+    "Weather": "Rainy, Stormy",
     "Sell Price": 45,
     "Location": "River",
     "Musuem": "Yes",
@@ -840,11 +840,11 @@
     "Diveable": ""
   },
   {
+    "Image": "https://fieldsofmistria.wiki.gg/images/3/31/Pike.png",
     "Name": "Pike",
-    "Rarity": "Common",
     "Shaodw": "Large",
     "Season": "All",
-    "Special Weather": "",
+    "Weather": "Any",
     "Sell Price": 45,
     "Location": "River",
     "Musuem": "No",
@@ -852,11 +852,11 @@
     "Diveable": "Yes"
   },
   {
+    "Image": "https://fieldsofmistria.wiki.gg/images/2/25/Pollock.png",
     "Name": "Pollock",
-    "Rarity": "Common",
     "Shaodw": "Large",
     "Season": "All",
-    "Special Weather": "",
+    "Weather": "Any",
     "Sell Price": 35,
     "Location": "Ocean",
     "Musuem": "No",
@@ -864,11 +864,11 @@
     "Diveable": "Yes"
   },
   {
+    "Image": "https://fieldsofmistria.wiki.gg/images/5/5c/Pond_snail.png",
     "Name": "Pond Snail",
-    "Rarity": "Common",
     "Shaodw": "Diving Only",
     "Season": "Any",
-    "Special Weather": "",
+    "Weather": "Any",
     "Sell Price": 25,
     "Location": "Pond",
     "Musuem": "No",
@@ -876,11 +876,11 @@
     "Diveable": "Yes"
   },
   {
+    "Image": "https://fieldsofmistria.wiki.gg/images/d/df/Puffer_fish.png",
     "Name": "Puffer Fish",
-    "Rarity": "Uncommon",
     "Shaodw": "Medium",
     "Season": "Summer, Winter",
-    "Special Weather": "",
+    "Weather": "Any",
     "Sell Price": 90,
     "Location": "Ocean",
     "Musuem": "No",
@@ -888,11 +888,11 @@
     "Diveable": ""
   },
   {
+    "Image": "https://fieldsofmistria.wiki.gg/images/b/b5/Rainbow_trout.png",
     "Name": "Rainbow Trout",
-    "Rarity": "Common",
     "Shaodw": "Medium",
     "Season": "Fall",
-    "Special Weather": "",
+    "Weather": "Any",
     "Sell Price": 35,
     "Location": "Pond",
     "Musuem": "Yes",
@@ -900,11 +900,11 @@
     "Diveable": ""
   },
   {
+    "Image": "https://fieldsofmistria.wiki.gg/images/0/0d/Razorback.png",
     "Name": "Razorback",
-    "Rarity": "Rare",
     "Shaodw": "Medium",
     "Season": "Fall",
-    "Special Weather": "",
+    "Weather": "Any",
     "Sell Price": 160,
     "Location": "River",
     "Musuem": "Yes",
@@ -912,11 +912,11 @@
     "Diveable": ""
   },
   {
+    "Image": "https://fieldsofmistria.wiki.gg/images/a/a1/Red_snapper.png",
     "Name": "Red Snapper",
-    "Rarity": "Common",
     "Shaodw": "Large",
     "Season": "Spring, Fall",
-    "Special Weather": "",
+    "Weather": "Any",
     "Sell Price": 45,
     "Location": "Ocean",
     "Musuem": "No",
@@ -924,11 +924,11 @@
     "Diveable": ""
   },
   {
+    "Image": "https://fieldsofmistria.wiki.gg/images/2/27/River_snail.png",
     "Name": "River Snail",
-    "Rarity": "Common",
     "Shaodw": "Diving Only",
     "Season": "Any",
-    "Special Weather": "",
+    "Weather": "Any",
     "Sell Price": 20,
     "Location": "River",
     "Musuem": "No",
@@ -936,11 +936,11 @@
     "Diveable": "Yes"
   },
   {
+    "Image": "https://fieldsofmistria.wiki.gg/images/6/62/Roach.png",
     "Name": "Roach",
-    "Rarity": "Common",
     "Shaodw": "Medium",
     "Season": "All",
-    "Special Weather": "",
+    "Weather": "Any",
     "Sell Price": 35,
     "Location": "Pond",
     "Musuem": "No",
@@ -948,11 +948,11 @@
     "Diveable": ""
   },
   {
+    "Image": "https://fieldsofmistria.wiki.gg/images/7/76/Rock_bass.png",
     "Name": "Rock Bass",
-    "Rarity": "Common",
     "Shaodw": "Medium",
     "Season": "Spring, Fall",
-    "Special Weather": "",
+    "Weather": "Any",
     "Sell Price": 40,
     "Location": "River",
     "Musuem": "No",
@@ -960,11 +960,11 @@
     "Diveable": ""
   },
   {
+    "Image": "https://fieldsofmistria.wiki.gg/images/1/12/Rock_guppy.png",
     "Name": "Rock Guppy",
-    "Rarity": "Uncommon",
     "Shaodw": "Small",
     "Season": "All",
-    "Special Weather": "",
+    "Weather": "Any",
     "Sell Price": 40,
     "Location": "Upper Mines",
     "Musuem": "Yes",
@@ -972,11 +972,11 @@
     "Diveable": ""
   },
   {
+    "Image": "https://fieldsofmistria.wiki.gg/images/4/48/Rockbiter.png",
     "Name": "Rockbiter",
-    "Rarity": "Uncommon",
     "Shaodw": "Medium",
     "Season": "All",
-    "Special Weather": "",
+    "Weather": "Any",
     "Sell Price": 55,
     "Location": "Deep Earth",
     "Musuem": "Yes",
@@ -984,11 +984,11 @@
     "Diveable": ""
   },
   {
+    "Image": "https://fieldsofmistria.wiki.gg/images/e/e0/Salmon.png",
     "Name": "Salmon",
-    "Rarity": "Common",
     "Shaodw": "Large",
     "Season": "Spring, Fall",
-    "Special Weather": "",
+    "Weather": "Any",
     "Sell Price": 40,
     "Location": "River",
     "Musuem": "No",
@@ -996,11 +996,11 @@
     "Diveable": ""
   },
   {
+    "Image": "https://fieldsofmistria.wiki.gg/images/f/fc/Sand_lance.png",
     "Name": "Sand Lance",
-    "Rarity": "Common",
     "Shaodw": "Small",
     "Season": "Winter",
-    "Special Weather": "",
+    "Weather": "Any",
     "Sell Price": 45,
     "Location": "Ocean",
     "Musuem": "Yes",
@@ -1008,11 +1008,11 @@
     "Diveable": ""
   },
   {
+    "Image": "https://fieldsofmistria.wiki.gg/images/8/83/Sapphire_betta.png",
     "Name": "Sapphire Betta",
-    "Rarity": "Common",
     "Shaodw": "Small",
     "Season": "All",
-    "Special Weather": "",
+    "Weather": "Any",
     "Sell Price": 40,
     "Location": "Tide Caverns",
     "Musuem": "Yes",
@@ -1020,11 +1020,11 @@
     "Diveable": ""
   },
   {
+    "Image": "https://fieldsofmistria.wiki.gg/images/0/04/Sardine.png",
     "Name": "Sardine",
-    "Rarity": "Common",
     "Shaodw": "Small",
     "Season": "All",
-    "Special Weather": "",
+    "Weather": "Any",
     "Sell Price": 35,
     "Location": "Ocean",
     "Musuem": "No",
@@ -1032,11 +1032,11 @@
     "Diveable": "Yes"
   },
   {
+    "Image": "https://fieldsofmistria.wiki.gg/images/b/bf/Sauger.png",
     "Name": "Sauger",
-    "Rarity": "Common",
     "Shaodw": "Large",
     "Season": "Summer",
-    "Special Weather": "",
+    "Weather": "Any",
     "Sell Price": 45,
     "Location": "Pond",
     "Musuem": "Yes",
@@ -1044,11 +1044,11 @@
     "Diveable": ""
   },
   {
+    "Image": "https://fieldsofmistria.wiki.gg/images/9/9a/Saury.png",
     "Name": "Saury",
-    "Rarity": "Common",
     "Shaodw": "Large",
     "Season": "Fall",
-    "Special Weather": "",
+    "Weather": "Any",
     "Sell Price": 45,
     "Location": "Ocean",
     "Musuem": "Yes",
@@ -1056,11 +1056,11 @@
     "Diveable": ""
   },
   {
+    "Image": "https://fieldsofmistria.wiki.gg/images/f/f9/Sea_bass.png",
     "Name": "Sea Bass",
-    "Rarity": "Common",
     "Shaodw": "Medium",
     "Season": "Winter",
-    "Special Weather": "",
+    "Weather": "Any",
     "Sell Price": 40,
     "Location": "Ocean",
     "Musuem": "Yes",
@@ -1068,11 +1068,11 @@
     "Diveable": ""
   },
   {
+    "Image": "https://fieldsofmistria.wiki.gg/images/1/10/Sea_bream.png",
     "Name": "Sea Bream",
-    "Rarity": "Common",
     "Shaodw": "Medium",
     "Season": "Spring, Fall",
-    "Special Weather": "",
+    "Weather": "Any",
     "Sell Price": 45,
     "Location": "Ocean",
     "Musuem": "No",
@@ -1080,11 +1080,11 @@
     "Diveable": ""
   },
   {
+    "Image": "https://fieldsofmistria.wiki.gg/images/1/13/Seaweed.png",
     "Name": "Seaweed",
-    "Rarity": "Common",
     "Shaodw": "Diving Only",
     "Season": "Any",
-    "Special Weather": "",
+    "Weather": "Any",
     "Sell Price": 15,
     "Location": "Ocean",
     "Musuem": "No",
@@ -1092,11 +1092,11 @@
     "Diveable": "Yes"
   },
   {
+    "Image": "https://fieldsofmistria.wiki.gg/images/e/ef/Shad.png",
     "Name": "Shad",
-    "Rarity": "Common",
     "Shaodw": "Medium",
     "Season": "Fall",
-    "Special Weather": "",
+    "Weather": "Any",
     "Sell Price": 40,
     "Location": "River",
     "Musuem": "Yes",
@@ -1104,11 +1104,11 @@
     "Diveable": ""
   },
   {
+    "Image": "https://fieldsofmistria.wiki.gg/images/4/4d/Shadow_bass.png",
     "Name": "Shadow Bass",
-    "Rarity": "Rare",
     "Shaodw": "Medium",
     "Season": "Winter",
-    "Special Weather": "",
+    "Weather": "Any",
     "Sell Price": 140,
     "Location": "River",
     "Musuem": "Yes",
@@ -1116,11 +1116,11 @@
     "Diveable": ""
   },
   {
+    "Image": "https://fieldsofmistria.wiki.gg/images/b/bb/Shardfin.png",
     "Name": "Shardfin",
-    "Rarity": "Uncommon",
     "Shaodw": "Small",
     "Season": "All",
-    "Special Weather": "",
+    "Weather": "Any",
     "Sell Price": 55,
     "Location": "Deep Earth",
     "Musuem": "Yes",
@@ -1128,11 +1128,11 @@
     "Diveable": ""
   },
   {
+    "Image": "https://fieldsofmistria.wiki.gg/images/1/14/Shark.png",
     "Name": "Shark",
-    "Rarity": "Rare",
     "Shaodw": "Giant",
     "Season": "Fall",
-    "Special Weather": "",
+    "Weather": "Any",
     "Sell Price": 100,
     "Location": "Ocean",
     "Musuem": "Yes",
@@ -1140,11 +1140,11 @@
     "Diveable": ""
   },
   {
+    "Image": "https://fieldsofmistria.wiki.gg/images/9/91/Shrimp.png",
     "Name": "Shrimp",
-    "Rarity": "Common",
     "Shaodw": "Small",
     "Season": "Spring",
-    "Special Weather": "",
+    "Weather": "Any",
     "Sell Price": 40,
     "Location": "Ocean",
     "Musuem": "Yes",
@@ -1152,11 +1152,11 @@
     "Diveable": ""
   },
   {
+    "Image": "https://fieldsofmistria.wiki.gg/images/d/d0/Smallmouth_bass.png",
     "Name": "Smallmouth Bass",
-    "Rarity": "Common",
     "Shaodw": "Small",
     "Season": "All",
-    "Special Weather": "",
+    "Weather": "Any",
     "Sell Price": 35,
     "Location": "River",
     "Musuem": "No",
@@ -1164,11 +1164,11 @@
     "Diveable": ""
   },
   {
+    "Image": "https://fieldsofmistria.wiki.gg/images/e/e9/Snakehead.png",
     "Name": "Snakehead",
-    "Rarity": "Uncommon",
     "Shaodw": "Large",
     "Season": "Spring, Fall",
-    "Special Weather": "",
+    "Weather": "Any",
     "Sell Price": 60,
     "Location": "Pond",
     "Musuem": "No",
@@ -1176,11 +1176,11 @@
     "Diveable": ""
   },
   {
+    "Image": "https://fieldsofmistria.wiki.gg/images/7/7b/Snapping_turtle.png",
     "Name": "Snapping Turtle",
-    "Rarity": "Common",
     "Shaodw": "Large",
     "Season": "Summer, Winter",
-    "Special Weather": "",
+    "Weather": "Any",
     "Sell Price": 40,
     "Location": "Pond",
     "Musuem": "No",
@@ -1188,11 +1188,11 @@
     "Diveable": ""
   },
   {
+    "Image": "https://fieldsofmistria.wiki.gg/images/c/c5/Snow_fish.png",
     "Name": "Snow Fish",
-    "Rarity": "Legendary",
     "Shaodw": "Medium",
     "Season": "Winter",
-    "Special Weather": "Snowy",
+    "Weather": "Snowy",
     "Sell Price": 500,
     "Location": "Ocean",
     "Musuem": "Yes",
@@ -1200,23 +1200,11 @@
     "Diveable": ""
   },
   {
-    "Name": "Spring River",
-    "Rarity": "Common",
-    "Shaodw": "Medium",
-    "Season": "Spring",
-    "Special Weather": "",
-    "Sell Price": 35,
-    "Location": "River",
-    "Musuem": "Yes",
-    "Donation Wing": "Spring River",
-    "Diveable": ""
-  },
-  {
+    "Image": "https://fieldsofmistria.wiki.gg/images/8/81/Squid.png",
     "Name": "Squid",
-    "Rarity": "Common",
     "Shaodw": "Medium",
     "Season": "All",
-    "Special Weather": "",
+    "Weather": "Any",
     "Sell Price": 30,
     "Location": "Ocean",
     "Musuem": "No",
@@ -1224,11 +1212,11 @@
     "Diveable": ""
   },
   {
+    "Image": "https://fieldsofmistria.wiki.gg/images/3/3a/Stingray.png",
     "Name": "Stingray",
-    "Rarity": "Common",
     "Shaodw": "Medium",
     "Season": "Summer",
-    "Special Weather": "",
+    "Weather": "Any",
     "Sell Price": 40,
     "Location": "Ocean",
     "Musuem": "Yes",
@@ -1236,11 +1224,11 @@
     "Diveable": ""
   },
   {
+    "Image": "https://fieldsofmistria.wiki.gg/images/9/98/Stone_loach.png",
     "Name": "Stone Loach",
-    "Rarity": "Common",
     "Shaodw": "Medium",
     "Season": "All",
-    "Special Weather": "",
+    "Weather": "Any",
     "Sell Price": 35,
     "Location": "Upper Mines",
     "Musuem": "Yes",
@@ -1248,11 +1236,11 @@
     "Diveable": ""
   },
   {
+    "Image": "https://fieldsofmistria.wiki.gg/images/d/dc/Striped_bass.png",
     "Name": "Striped Bass",
-    "Rarity": "Common",
     "Shaodw": "Large",
     "Season": "Fall",
-    "Special Weather": "",
+    "Weather": "Any",
     "Sell Price": 40,
     "Location": "Pond",
     "Musuem": "Yes",
@@ -1260,11 +1248,11 @@
     "Diveable": ""
   },
   {
+    "Image": "https://fieldsofmistria.wiki.gg/images/4/42/Sturgeon.png",
     "Name": "Sturgeon",
-    "Rarity": "Uncommon",
     "Shaodw": "Large",
     "Season": "Spring, Fall",
-    "Special Weather": "",
+    "Weather": "Any",
     "Sell Price": 80,
     "Location": "River",
     "Musuem": "No",
@@ -1272,11 +1260,11 @@
     "Diveable": ""
   },
   {
+    "Image": "https://fieldsofmistria.wiki.gg/images/e/ed/Sweetfish.png",
     "Name": "Sweetfish",
-    "Rarity": "Common",
     "Shaodw": "Medium",
     "Season": "Summer",
-    "Special Weather": "",
+    "Weather": "Any",
     "Sell Price": 45,
     "Location": "River",
     "Musuem": "Yes",
@@ -1284,11 +1272,11 @@
     "Diveable": ""
   },
   {
+    "Image": "https://fieldsofmistria.wiki.gg/images/f/f7/Swordfish.png",
     "Name": "Swordfish",
-    "Rarity": "Uncommon",
     "Shaodw": "Large",
     "Season": "Spring, Fall",
-    "Special Weather": "",
+    "Weather": "Any",
     "Sell Price": 80,
     "Location": "Ocean",
     "Musuem": "No",
@@ -1296,11 +1284,11 @@
     "Diveable": ""
   },
   {
+    "Image": "https://fieldsofmistria.wiki.gg/images/c/ce/Tarpon.png",
     "Name": "Tarpon",
-    "Rarity": "Rare",
     "Shaodw": "Giant",
     "Season": "Summer",
-    "Special Weather": "",
+    "Weather": "Any",
     "Sell Price": 100,
     "Location": "River",
     "Musuem": "Yes",
@@ -1308,11 +1296,11 @@
     "Diveable": ""
   },
   {
+    "Image": "https://fieldsofmistria.wiki.gg/images/1/13/Tetra.png",
     "Name": "Tetra",
-    "Rarity": "Common",
     "Shaodw": "Small",
     "Season": "All",
-    "Special Weather": "",
+    "Weather": "Any",
     "Sell Price": 40,
     "Location": "Pond",
     "Musuem": "No",
@@ -1320,11 +1308,11 @@
     "Diveable": ""
   },
   {
+    "Image": "https://fieldsofmistria.wiki.gg/images/7/73/Tilapia.png",
     "Name": "Tilapia",
-    "Rarity": "Common",
     "Shaodw": "Small",
     "Season": "Winter",
-    "Special Weather": "",
+    "Weather": "Any",
     "Sell Price": 45,
     "Location": "Pond",
     "Musuem": "Yes",
@@ -1332,11 +1320,11 @@
     "Diveable": ""
   },
   {
+    "Image": "https://fieldsofmistria.wiki.gg/images/8/8c/Transparent_jellyfish.png",
     "Name": "Transparent Jellyfish",
-    "Rarity": "Common",
     "Shaodw": "Medium",
     "Season": "All",
-    "Special Weather": "",
+    "Weather": "Any",
     "Sell Price": 40,
     "Location": "Tide Caverns",
     "Musuem": "Yes",
@@ -1344,11 +1332,11 @@
     "Diveable": ""
   },
   {
+    "Image": "https://fieldsofmistria.wiki.gg/images/6/66/Trout.png",
     "Name": "Trout",
-    "Rarity": "Common",
     "Shaodw": "Medium",
     "Season": "All",
-    "Special Weather": "",
+    "Weather": "Any",
     "Sell Price": 40,
     "Location": "River",
     "Musuem": "No",
@@ -1356,11 +1344,11 @@
     "Diveable": "Yes"
   },
   {
+    "Image": "https://fieldsofmistria.wiki.gg/images/c/c5/Tuna.png",
     "Name": "Tuna",
-    "Rarity": "Common",
     "Shaodw": "Large",
     "Season": "All",
-    "Special Weather": "",
+    "Weather": "Any",
     "Sell Price": 40,
     "Location": "Ocean",
     "Musuem": "No",
@@ -1368,11 +1356,11 @@
     "Diveable": ""
   },
   {
+    "Image": "https://fieldsofmistria.wiki.gg/images/e/e9/Turtle.png",
     "Name": "Turtle",
-    "Rarity": "Common",
     "Shaodw": "Large",
     "Season": "All",
-    "Special Weather": "",
+    "Weather": "Any",
     "Sell Price": 45,
     "Location": "Pond",
     "Musuem": "No",
@@ -1380,11 +1368,11 @@
     "Diveable": ""
   },
   {
+    "Image": "https://fieldsofmistria.wiki.gg/images/0/05/Walleye.png",
     "Name": "Walleye",
-    "Rarity": "Common",
     "Shaodw": "Large",
     "Season": "Spring",
-    "Special Weather": "Rainy",
+    "Weather": "Rainy, Stormy",
     "Sell Price": 45,
     "Location": "River",
     "Musuem": "Yes",
@@ -1392,11 +1380,11 @@
     "Diveable": ""
   },
   {
+    "Image": "https://fieldsofmistria.wiki.gg/images/9/98/Water_balloon_fish.png",
     "Name": "Water Balloon Fish",
-    "Rarity": "Uncommon",
     "Shaodw": "Medium",
     "Season": "All",
-    "Special Weather": "",
+    "Weather": "Any",
     "Sell Price": 50,
     "Location": "Tide Caverns",
     "Musuem": "Yes",
@@ -1404,11 +1392,11 @@
     "Diveable": ""
   },
   {
+    "Image": "https://fieldsofmistria.wiki.gg/images/c/c4/White_perch.png",
     "Name": "White Perch",
-    "Rarity": "Rare",
     "Shaodw": "Medium",
     "Season": "Fall",
-    "Special Weather": "",
+    "Weather": "Any",
     "Sell Price": 120,
     "Location": "Pond",
     "Musuem": "Yes",
