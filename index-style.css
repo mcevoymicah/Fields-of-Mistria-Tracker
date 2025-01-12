@@ -1,0 +1,88 @@
+/* General Reset */
+body {
+    margin: 0;
+    padding: 0;
+    font-family: "MyCustomFont", sans-serif; /* Pixel-style font */
+    background: #000; /* Fallback for background */
+}
+
+@font-face {
+    font-family: 'MyCustomFont'; /* Name your font */
+    src: url('./Assests/enter-the-gungeon-big.ttf') format('truetype'); /* Adjust path and format */
+}
+
+
+/* Background Styling */
+.background {
+    background-image: url('./Assests/FoM-site-background.webp'); 
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+/* Title Image Styling */
+.title-image {
+    image-rendering: pixelated;
+    width: 300%; 
+    display: block; 
+    margin-left: 50%; 
+    transform: translateX(-50%); 
+    margin-bottom: 25%; 
+}
+
+/* Menu Styling */
+.menu {
+    display: flex;
+    flex-direction: column;
+    align-items: center; 
+}
+
+/* Pixel Button Image Styling */
+.pixel-button {
+    image-rendering: pixelated; /* Preserve sharp pixelation */
+    display: block;
+    width: 200px; 
+    height: auto; 
+    cursor: pointer;
+    transition: opacity 0.2s ease; 
+}
+
+/* Hover Effect: Swap the Button Image */
+.pixel-button:hover {
+    content: url('./Assests/Menu-Button-Hover.png'); 
+}
+
+/* Button Container Styling */
+.button-container {
+    position: relative; 
+    display: inline-block; 
+    width: 200px; 
+    height: auto; 
+}
+
+/* Button Image Styling */
+.pixel-button {
+    display: block;
+    width: 100%; 
+    height: auto; 
+    image-rendering: pixelated; 
+}
+
+/* Button Text Styling */
+.button-text {
+    position: absolute; 
+    top: 50%; 
+    left: 50%; 
+    transform: translate(-50%, -50%); 
+    font-size: 20px; 
+    color: black; 
+    pointer-events: none; 
+    text-align: center; 
+    width: 100%;
+}
+
+
