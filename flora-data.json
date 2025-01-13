@@ -1,0 +1,752 @@
+[
+  {
+    "Image": "https://fieldsofmistria.wiki.gg/images/c/cc/Cabbage.png",
+    "Crop": "Cabbage",
+    "Growth Rate": 9,
+    "Seed Price at The General Store": 70,
+    "Season": "Spring",
+    "Location": "Farm",
+    "Museum Set": "Spring Crop",
+    "Comment": "A slow growing spring crop. Crunchy with a mild taste, this leafy vegetable can be used in a variety of cooking recipes."
+  },
+  {
+    "Image": "https://fieldsofmistria.wiki.gg/images/2/20/Cherry.png",
+    "Crop": "Cherry",
+    "Growth Rate": 14,
+    "Seed Price at The General Store": 400,
+    "Season": "Spring",
+    "Location": "Farm, The Eastern Road",
+    "Museum Set": "Spring Crop",
+    "Comment": "The small red fruit of the cherry tree, which fruits in spring. Used in a variety of cooking recipes."
+  },
+  {
+    "Image": "https://fieldsofmistria.wiki.gg/images/c/c2/Potato.png",
+    "Crop": "Potato",
+    "Growth Rate": 6,
+    "Seed Price at The General Store": 40,
+    "Season": "Spring",
+    "Location": "Farm",
+    "Museum Set": "Spring Crop",
+    "Comment": "A popular spring crop and staple food. Especially delicious when freshly baked or fried until crispy."
+  },
+  {
+    "Image": "https://fieldsofmistria.wiki.gg/images/6/6d/Strawberry.png",
+    "Crop": "Strawberry",
+    "Growth Rate": 5,
+    "Seed Price at The General Store": 300,
+    "Season": "Spring",
+    "Location": "Farm",
+    "Museum Set": "Spring Crop",
+    "Comment": "A spring fruit crop. Sweet and flavorful, these berries are frequently used in dessert recipes."
+  },
+  {
+    "Image": "https://fieldsofmistria.wiki.gg/images/b/b7/Turnip.png",
+    "Crop": "Turnip",
+    "Growth Rate": 4,
+    "Seed Price at The General Store": 25,
+    "Season": "Spring",
+    "Location": "Farm",
+    "Museum Set": "Spring Crop",
+    "Comment": "A fast growing spring crop. Has a spicy taste when raw, and a sweet taste when cooked."
+  },
+  {
+    "Image": "https://fieldsofmistria.wiki.gg/images/4/4b/Daffodil.png",
+    "Crop": "Daffodil",
+    "Growth Rate": 4,
+    "Seed Price at The General Store": 15,
+    "Season": "Spring",
+    "Location": "Farm, The Narrows, Sweetwater Farm, The Narrows",
+    "Museum Set": "Spring Flower",
+    "Comment": "A lovely yellow flower that grows in the spring. Can be given as a gift or used in various crafting recipes."
+  },
+  {
+    "Image": "https://fieldsofmistria.wiki.gg/images/b/b1/Dandelion.png",
+    "Crop": "Dandelion",
+    "Growth Rate": "",
+    "Seed Price at The General Store": "",
+    "Season": "Spring",
+    "Location": "Mistria, The Narrows, Sweetwater Farm",
+    "Museum Set": "Spring Flower",
+    "Comment": "A wild flower that grows in the spring. Sometimes used in cooking recipes."
+  },
+  {
+    "Image": "https://fieldsofmistria.wiki.gg/images/5/5f/Lilac.png",
+    "Crop": "Lilac",
+    "Growth Rate": "",
+    "Seed Price at The General Store": "",
+    "Season": "Spring",
+    "Location": "The Eastern Road, Sweetwater Farm",
+    "Museum Set": "Spring Flower",
+    "Comment": "A wild purple flower that grows in the spring. Can be sold, gifted, or used in certain crafting recipes."
+  },
+  {
+    "Image": "https://fieldsofmistria.wiki.gg/images/d/d4/Snowdrop_anemone.png",
+    "Crop": "Snowdrop Anemone",
+    "Growth Rate": "",
+    "Seed Price at The General Store": "",
+    "Season": "Spring",
+    "Location": "The Western Ruins, The Beach",
+    "Museum Set": "Spring Flower",
+    "Comment": "A rare and beautiful flower that grows in spring. Can be sold, gifted, or used in certain crafting recipes."
+  },
+  {
+    "Image": "https://fieldsofmistria.wiki.gg/images/c/cf/Tulip.png",
+    "Crop": "Tulip",
+    "Growth Rate": 6,
+    "Seed Price at The General Store": 20,
+    "Season": "Spring",
+    "Location": "Farm, The Eastern Road,  The Narrows, Sweetwater Farm",
+    "Museum Set": "Spring Flower",
+    "Comment": "A rare and beautiful flower that grows in spring. Can be sold, gifted, or used in certain crafting recipes."
+  },
+  {
+    "Image": "https://fieldsofmistria.wiki.gg/images/f/f7/Fennel.png",
+    "Crop": "Fennel",
+    "Growth Rate": "",
+    "Seed Price at The General Store": "",
+    "Season": "Spring",
+    "Location": "The Narrows, The Eastern Road",
+    "Museum Set": "Spring Forage",
+    "Comment": "A wild herb foraged in spring with a mild licorice flavor. Commonly used as a cooking ingredient."
+  },
+  {
+    "Image": "https://fieldsofmistria.wiki.gg/images/7/75/Fiddlehead.png",
+    "Crop": "Fiddlehead",
+    "Growth Rate": "",
+    "Seed Price at The General Store": "",
+    "Season": "Spring",
+    "Location": "The Narrows, The Eastern Road",
+    "Museum Set": "Spring Forage",
+    "Comment": "A wild plant foraged in spring with a sweet grassy flavor. Commonly used as a cooking ingredient."
+  },
+  {
+    "Image": "https://fieldsofmistria.wiki.gg/images/4/4a/Morel_mushroom.png",
+    "Crop": "Morel Mushroom",
+    "Growth Rate": "",
+    "Seed Price at The General Store": "",
+    "Season": "Spring",
+    "Location": "No set spawn (rare)",
+    "Museum Set": "Spring Forage",
+    "Comment": "A rare mushroom foraged in spring. Has a delightful nutty flavor and is commonly used as a cooking ingredient."
+  },
+  {
+    "Image": "https://fieldsofmistria.wiki.gg/images/4/40/Nettle.png",
+    "Crop": "Nettle",
+    "Growth Rate": "",
+    "Seed Price at The General Store": "",
+    "Season": "Spring",
+    "Location": "Sweetwater Farm",
+    "Museum Set": "Spring Forage",
+    "Comment": "A wild plant foraged in spring with an earthy taste similar to spinach. Commonly used as a cooking ingredient."
+  },
+  {
+    "Image": "https://fieldsofmistria.wiki.gg/images/d/dd/Wild_leek.png",
+    "Crop": "Wild Leek",
+    "Growth Rate": "",
+    "Seed Price at The General Store": "",
+    "Season": "Spring",
+    "Location": "Mistria, The Narrows, The Eastern Road",
+    "Museum Set": "Spring Forage",
+    "Comment": "A wild plant foraged in spring with a pleasant taste similar to garlic. Commonly used as a cooking ingredient."
+  },
+  {
+    "Image": "https://fieldsofmistria.wiki.gg/images/6/60/Chili_pepper.png",
+    "Crop": "Chilli Pepper",
+    "Growth Rate": 6,
+    "Seed Price at The General Store": 40,
+    "Season": "Summer",
+    "Location": "Farm",
+    "Museum Set": "Summer Crop",
+    "Comment": "A spicy summer crop and popular seasoning. Used to add a kick to many cooking recipes."
+  },
+  {
+    "Image": "https://fieldsofmistria.wiki.gg/images/f/f8/Corn.png",
+    "Crop": "Corn",
+    "Growth Rate": 5,
+    "Seed Price at The General Store": 300,
+    "Season": "Summer",
+    "Location": "Farm",
+    "Museum Set": "Summer Crop",
+    "Comment": "A popular summer crop and staple food. Used as a key ingredient in many cooking recipes."
+  },
+  {
+    "Image": "https://fieldsofmistria.wiki.gg/images/5/59/Cucumber.png",
+    "Crop": "Cucumber",
+    "Growth Rate": 4,
+    "Seed Price at The General Store": 25,
+    "Season": "Summer",
+    "Location": "Farm",
+    "Museum Set": "Summer Crop",
+    "Comment": "A popular summer crop. Delicious when eaten fresh or pickled."
+  },
+  {
+    "Image": "https://fieldsofmistria.wiki.gg/images/9/9d/Tomato.png",
+    "Crop": "Tomato",
+    "Growth Rate": 5,
+    "Seed Price at The General Store": 300,
+    "Season": "Summer",
+    "Location": "Farm",
+    "Museum Set": "Summer Crop",
+    "Comment": "An essential summer crop. Used as an ingredient in many cooking recipes."
+  },
+  {
+    "Image": "https://fieldsofmistria.wiki.gg/images/0/06/Watermelon.png",
+    "Crop": "Watermelon",
+    "Growth Rate": 9,
+    "Seed Price at The General Store": 70,
+    "Season": "Summer",
+    "Location": "Farm",
+    "Museum Set": "Summer Crop",
+    "Comment": "A classic summer crop. Super refreshing on a hot summer day."
+  },
+  {
+    "Image": "https://fieldsofmistria.wiki.gg/images/2/2c/Catmint.png",
+    "Crop": "Catmint",
+    "Growth Rate": 6,
+    "Seed Price at The General Store": 20,
+    "Season": "Summer",
+    "Location": "Farm, The Narrows",
+    "Museum Set": "Summer Flower",
+    "Comment": "A cute purple flower grown in the summer. Can be given as a gift or used in various crafting recipes."
+  },
+  {
+    "Image": "https://fieldsofmistria.wiki.gg/images/6/64/Cosmos.png",
+    "Crop": "Cosmos",
+    "Growth Rate": 6,
+    "Seed Price at The General Store": 20,
+    "Season": "Summer",
+    "Location": "Farm, Sweetwater Farm",
+    "Museum Set": "Summer Flower",
+    "Comment": "A deep red flower grown in the summer. Can be given as a gift or used in various crafting recipes."
+  },
+  {
+    "Image": "https://fieldsofmistria.wiki.gg/images/c/c1/Daisy.png",
+    "Crop": "Daisy",
+    "Growth Rate": 4,
+    "Seed Price at The General Store": 10,
+    "Season": "Summer",
+    "Location": "Farm, Sweetwater Farm, The Narrows,  The Western Ruins, The Eastern Road",
+    "Museum Set": "Summer Flower",
+    "Comment": "A pretty white flower grown in the summer. Can be given as a gift or used in various crafting recipes."
+  },
+  {
+    "Image": "https://fieldsofmistria.wiki.gg/images/5/5c/Iris.png",
+    "Crop": "Iris",
+    "Growth Rate": "",
+    "Seed Price at The General Store": "",
+    "Season": "Summer",
+    "Location": "The Beach, The Narrows, Sweetwater Farm",
+    "Museum Set": "Summer Flower",
+    "Comment": "A lovely blue flower grown in the summer. Makes a good gift."
+  },
+  {
+    "Image": "https://fieldsofmistria.wiki.gg/images/3/3c/Marigold.png",
+    "Crop": "Marigold",
+    "Growth Rate": "",
+    "Seed Price at The General Store": "",
+    "Season": "Summer",
+    "Location": "The Western Ruins",
+    "Museum Set": "Summer Flower",
+    "Comment": "A vibrant orange flower grown in the summer. Can be given as a gift or used in various crafting recipes."
+  },
+  {
+    "Image": "https://fieldsofmistria.wiki.gg/images/6/6e/Basil.png",
+    "Crop": "Basil",
+    "Growth Rate": "",
+    "Seed Price at The General Store": "",
+    "Season": "Summer",
+    "Location": "The Eastern Road",
+    "Museum Set": "Summer Forage",
+    "Comment": "A popular herb grown in summer. Commonly used as a cooking ingredient."
+  },
+  {
+    "Image": "https://fieldsofmistria.wiki.gg/images/4/48/Dill.png",
+    "Crop": "Dill",
+    "Growth Rate": "",
+    "Seed Price at The General Store": "",
+    "Season": "Summer",
+    "Location": "The Narrows, The Beach, The Western Ruins",
+    "Museum Set": "Summer Forage",
+    "Comment": "A popular herb grown in summer. Commonly used as a cooking ingredient."
+  },
+  {
+    "Image": "https://fieldsofmistria.wiki.gg/images/e/e3/Oregano.png",
+    "Crop": "Oregano",
+    "Growth Rate": "",
+    "Seed Price at The General Store": "",
+    "Season": "Summer",
+    "Location": "Mistria",
+    "Museum Set": "Summer Forage",
+    "Comment": "A popular herb grown in summer. Commonly used as a cooking ingredient."
+  },
+  {
+    "Image": "https://fieldsofmistria.wiki.gg/images/f/f8/Sage.png",
+    "Crop": "Sage",
+    "Growth Rate": "",
+    "Seed Price at The General Store": "",
+    "Season": "Summer",
+    "Location": "The Narrows, The Beach",
+    "Museum Set": "Summer Forage",
+    "Comment": "A popular herb grown in summer. Commonly used as a cooking ingredient."
+  },
+  {
+    "Image": "https://fieldsofmistria.wiki.gg/images/3/3a/Thyme.png",
+    "Crop": "Thyme",
+    "Growth Rate": "",
+    "Seed Price at The General Store": "",
+    "Season": "Summer",
+    "Location": "Sweetwater Farm",
+    "Museum Set": "Summer Forage",
+    "Comment": "A popular herb grown in summer. Commonly used as a cooking ingredient."
+  },
+  {
+    "Image": "https://fieldsofmistria.wiki.gg/images/7/7d/Apple.png",
+    "Crop": "Apple",
+    "Growth Rate": 14,
+    "Seed Price at The General Store": 400,
+    "Season": "Fall",
+    "Location": "Farm, The Eastern Road",
+    "Museum Set": "Fall Crop",
+    "Comment": "The delicious fruit of the apple tree, which fruits in fall. A popular ingredient in cooking recipes."
+  },
+  {
+    "Image": "https://fieldsofmistria.wiki.gg/images/f/f1/Broccoli.png",
+    "Crop": "Broccoli",
+    "Growth Rate": 6,
+    "Seed Price at The General Store": 40,
+    "Season": "Fall",
+    "Location": "Farm",
+    "Museum Set": "Fall Crop",
+    "Comment": "A fall crop. Crunchy with a mild, grassy flavor. Commonly used as a cooking ingredient."
+  },
+  {
+    "Image": "https://fieldsofmistria.wiki.gg/images/d/dd/Cranberry.png",
+    "Crop": "Cranberry",
+    "Growth Rate": 5,
+    "Seed Price at The General Store": 300,
+    "Season": "Fall",
+    "Location": "Farm",
+    "Museum Set": "Fall Crop",
+    "Comment": "A fall crop that regrows. Has a tart, fruity flavor. Commonly used as a cooking ingredient."
+  },
+  {
+    "Image": "https://fieldsofmistria.wiki.gg/images/6/64/Pumpkin.png",
+    "Crop": "Pumpkin",
+    "Growth Rate": 9,
+    "Seed Price at The General Store": 70,
+    "Season": "Fall",
+    "Location": "Farm",
+    "Museum Set": "Fall Crop",
+    "Comment": "A slow growing fall crop. Has an earthy, slightly sweet taste. Commonly used as a cooking and crafting ingredient."
+  },
+  {
+    "Image": "https://fieldsofmistria.wiki.gg/images/2/27/Sweet_potato.png",
+    "Crop": "Sweet Potato",
+    "Growth Rate": 4,
+    "Seed Price at The General Store": 25,
+    "Season": "Fall",
+    "Location": "Farm",
+    "Museum Set": "Fall Crop",
+    "Comment": "A fast growing fall crop. True to its name, it has a sweet flavor when cooked."
+  },
+  {
+    "Image": "https://fieldsofmistria.wiki.gg/images/7/74/Celosia.png",
+    "Crop": "Celosia",
+    "Growth Rate": 4,
+    "Seed Price at The General Store": 15,
+    "Season": "Fall",
+    "Location": "Farm",
+    "Museum Set": "Fall Flower",
+    "Comment": "A fast growing pink fall flower. Can be used in crafting recipes."
+  },
+  {
+    "Image": "https://fieldsofmistria.wiki.gg/images/7/7f/Chrysanthemum.png",
+    "Crop": "Chrysanthemum",
+    "Growth Rate": 6,
+    "Seed Price at The General Store": 20,
+    "Season": "Fall",
+    "Location": "Farm",
+    "Museum Set": "Fall Flower",
+    "Comment": "A popular dark red fall flower. Can be used in crafting recipes."
+  },
+  {
+    "Image": "https://fieldsofmistria.wiki.gg/images/2/23/Fog_orchid.png",
+    "Crop": "Fog Orchid",
+    "Growth Rate": "",
+    "Seed Price at The General Store": "",
+    "Season": "Fall",
+    "Location": "The Western Ruins, The Eastern Road",
+    "Museum Set": "Fall Flower",
+    "Comment": "A haunting white flower foraged in fall. Can be given as a gift or used in crafting recipes."
+  },
+  {
+    "Image": "https://fieldsofmistria.wiki.gg/images/4/46/Heather.png",
+    "Crop": "Heather",
+    "Growth Rate": "",
+    "Seed Price at The General Store": "",
+    "Season": "Fall",
+    "Location": "Mistria, The Beach, The Narrows",
+    "Museum Set": "Fall Flower",
+    "Comment": "A charming pink flower foraged in fall. Can be used in crafting recipes."
+  },
+  {
+    "Image": "https://fieldsofmistria.wiki.gg/images/4/48/Viola.png",
+    "Crop": "Viola",
+    "Growth Rate": "",
+    "Seed Price at The General Store": "",
+    "Season": "Fall",
+    "Location": "The Eastern Road",
+    "Museum Set": "Fall Flower",
+    "Comment": "A cute yellow and purple flower foraged in fall. Can be used in crafting recipes."
+  },
+  {
+    "Image": "https://fieldsofmistria.wiki.gg/images/4/47/Chestnut.png",
+    "Crop": "Chestnut",
+    "Growth Rate": "",
+    "Seed Price at The General Store": "",
+    "Season": "Fall",
+    "Location": "The Beach, Sweetwater Farm, The Narrows",
+    "Museum Set": "Fall Forage",
+    "Comment": "A common nut foraged in fall. Commonly used as a cooking ingredient."
+  },
+  {
+    "Image": "https://fieldsofmistria.wiki.gg/images/c/cc/Garlic.png",
+    "Crop": "Garlic",
+    "Growth Rate": "",
+    "Seed Price at The General Store": "",
+    "Season": "Fall",
+    "Location": "The Eastern Road",
+    "Museum Set": "Fall Forage",
+    "Comment": "A fall crop that regrows. Has a strong taste and odor. Commonly used as a cooking ingredient."
+  },
+  {
+    "Image": "https://fieldsofmistria.wiki.gg/images/7/7b/Horseradish.png",
+    "Crop": "Horseradish",
+    "Growth Rate": "",
+    "Seed Price at The General Store": "",
+    "Season": "Fall",
+    "Location": "The Narrows, Sweetwater Farm, The Eastern Road",
+    "Museum Set": "Fall Forage",
+    "Comment": "A wild plant foraged in fall. Has a spicy, pungent flavor. Commonly used as a cooking ingredient."
+  },
+  {
+    "Image": "https://fieldsofmistria.wiki.gg/images/6/63/Moon_fruit.png",
+    "Crop": "Moon Fruit",
+    "Growth Rate": "",
+    "Seed Price at The General Store": "",
+    "Season": "Fall",
+    "Location": "Eastern Road (Wishing Well)",
+    "Museum Set": "Fall Forage",
+    "Comment": "A fall crop that regrows. Has a sweet flavor. Commonly used as a cooking ingredient."
+  },
+  {
+    "Image": "https://fieldsofmistria.wiki.gg/images/7/76/Rosemary.png",
+    "Crop": "Rosemary",
+    "Growth Rate": "",
+    "Seed Price at The General Store": "",
+    "Season": "Fall",
+    "Location": "Sweetwater Farm",
+    "Museum Set": "Fall Forage",
+    "Comment": "A fragrant herb grown in fall. Commonly used as a cooking ingredient."
+  },
+  {
+    "Image": "https://fieldsofmistria.wiki.gg/images/a/a4/Beet.png",
+    "Crop": "Beet",
+    "Growth Rate": 4,
+    "Seed Price at The General Store": 25,
+    "Season": "Winter",
+    "Location": "Farm",
+    "Museum Set": "Winter Crop",
+    "Comment": "A fast growing winter crop. Has a strong earthy flavor. Commonly used as a cooking ingredient."
+  },
+  {
+    "Image": "https://fieldsofmistria.wiki.gg/images/a/aa/Cauliflower.png",
+    "Crop": "Cauliflower",
+    "Growth Rate": 6,
+    "Seed Price at The General Store": 40,
+    "Season": "Winter",
+    "Location": "Farm",
+    "Museum Set": "Winter Crop",
+    "Comment": "A winter crop. Has a subtle nutty flavor. Commonly used as a cooking ingredient."
+  },
+  {
+    "Image": "https://fieldsofmistria.wiki.gg/images/0/0e/Daikon_radish.png",
+    "Crop": "Daikon Radish",
+    "Growth Rate": 9,
+    "Seed Price at The General Store": 70,
+    "Season": "Winter",
+    "Location": "Farm",
+    "Museum Set": "Winter Crop",
+    "Comment": "A slow growing winter crop. Has a subtly sweet, peppery flavor. Commonly used as a cooking ingredient."
+  },
+  {
+    "Image": "https://fieldsofmistria.wiki.gg/images/1/1b/Pomegranate.png",
+    "Crop": "Pomegranate",
+    "Growth Rate": 14,
+    "Seed Price at The General Store": 400,
+    "Season": "Winter",
+    "Location": "Farm, Sweetwater Farm, The Narrows, The Western Ruins, The Eastern Road.",
+    "Museum Set": "Winter Crop",
+    "Comment": "The seed-filled fruit of the pomegranate tree, which fruits in winter. Used in a variety of cooking recipes."
+  },
+  {
+    "Image": "https://fieldsofmistria.wiki.gg/images/f/ff/Snow_peas.png",
+    "Crop": "Snow Peas",
+    "Growth Rate": 5,
+    "Seed Price at The General Store": 300,
+    "Season": "Winter",
+    "Location": "Farm",
+    "Museum Set": "Winter Crop",
+    "Comment": "A winter crop that regrows. Has a very sweet flavor. Commonly used as a cooking ingredient."
+  },
+  {
+    "Image": "https://fieldsofmistria.wiki.gg/images/2/2f/Crocus.png",
+    "Crop": "Crocus",
+    "Growth Rate": "",
+    "Seed Price at The General Store": "",
+    "Season": "Winter",
+    "Location": "The Eastern Road, Sweetwater Farm, The Beach",
+    "Museum Set": "Winter Flower",
+    "Comment": "A fetching light purple flower foraged in winter. Can be used in crafting recipes."
+  },
+  {
+    "Image": "https://fieldsofmistria.wiki.gg/images/d/d0/Frost_lily.png",
+    "Crop": "Frost Lily",
+    "Growth Rate": 4,
+    "Seed Price at The General Store": 15,
+    "Season": "Winter",
+    "Location": "Farm, The Eastern Road, Sweetwater Farm, The Beach",
+    "Museum Set": "Winter Flower",
+    "Comment": "An enchanting fast growing winter flower. Can be used in crafting recipes."
+  },
+  {
+    "Image": "https://fieldsofmistria.wiki.gg/images/c/c1/Jasmine.png",
+    "Crop": "Jasmine",
+    "Growth Rate": 3,
+    "Seed Price at The General Store": "",
+    "Season": "Winter",
+    "Location": "Sweetwater Farm, The Eastern Road",
+    "Museum Set": "Winter Flower",
+    "Comment": "A delightful white flower foraged in winter. Can be used in crafting and cooking recipes."
+  },
+  {
+    "Image": "https://fieldsofmistria.wiki.gg/images/3/3a/Poinsettia.png",
+    "Crop": "Poinsetta",
+    "Growth Rate": 6,
+    "Seed Price at The General Store": 20,
+    "Season": "Winter",
+    "Location": "Farm, The Beach, The Narrows, Sweetwater Farm",
+    "Museum Set": "Winter Flower",
+    "Comment": "A lovely red winter flower. Can be used in crafting recipes."
+  },
+  {
+    "Image": "https://fieldsofmistria.wiki.gg/images/2/23/Snapdragon.png",
+    "Crop": "Snap Dragon",
+    "Growth Rate": "",
+    "Seed Price at The General Store": "",
+    "Season": "Winter",
+    "Location": "The Western Ruins",
+    "Museum Set": "Winter Flower",
+    "Comment": "A darling pink flower foraged in winter. Can be used in crafting recipes."
+  },
+  {
+    "Image": "https://fieldsofmistria.wiki.gg/images/5/56/Burdock_root.png",
+    "Crop": "Burdock Root",
+    "Growth Rate": 3,
+    "Seed Price at The General Store": "",
+    "Season": "Winter",
+    "Location": "The Eastern Road, The Western Ruins",
+    "Museum Set": "Winter Forage",
+    "Comment": "A wild plant foraged in winter. Has a nutty, earthy flavor. Commonly used as a cooking ingredient."
+  },
+  {
+    "Image": "https://fieldsofmistria.wiki.gg/images/b/b8/Holly.png",
+    "Crop": "Holly",
+    "Growth Rate": "",
+    "Seed Price at The General Store": "",
+    "Season": "Winter",
+    "Location": "The Eastern Road, Sweetwater Farm",
+    "Museum Set": "Winter Forage",
+    "Comment": "A wild plant foraged in winter. Can be used in crafting recipes."
+  },
+  {
+    "Image": "https://fieldsofmistria.wiki.gg/images/4/42/Oyster_mushroom.png",
+    "Crop": "Oyster Mushroom",
+    "Growth Rate": "",
+    "Seed Price at The General Store": "",
+    "Season": "Winter",
+    "Location": "The Eastern Road, Mistria, The Beach",
+    "Museum Set": "Winter Forage",
+    "Comment": "A wild mushroom foraged in winter. Has an earthy flavor. Commonly used as a cooking ingredient."
+  },
+  {
+    "Image": "https://fieldsofmistria.wiki.gg/images/3/38/Pineshroom.png",
+    "Crop": "Pineshroom",
+    "Growth Rate": "",
+    "Seed Price at The General Store": "",
+    "Season": "Winter",
+    "Location": "Sweetwater Farm",
+    "Museum Set": "Winter Forage",
+    "Comment": "A wild mushroom foraged in winter. It's sweet with a hint of vanilla flavor. Commonly used as a cooking ingredient."
+  },
+  {
+    "Image": "https://fieldsofmistria.wiki.gg/images/5/56/Rose_hip.png",
+    "Crop": "Rose Hip",
+    "Growth Rate": "",
+    "Seed Price at The General Store": "",
+    "Season": "Winter",
+    "Location": "Mansion garden (grows on the bushes near the gazebo)",
+    "Museum Set": "Winter Forage",
+    "Comment": "A wild plant foraged in winter. Has a sweet and sour flavor. Commonly used as a cooking ingredient."
+  },
+  {
+    "Image": "https://fieldsofmistria.wiki.gg/images/e/e8/Crystal_berries.png",
+    "Crop": "Crystal Berries",
+    "Growth Rate": "",
+    "Seed Price at The General Store": "",
+    "Season": "All",
+    "Location": "Deep Earth Caverns",
+    "Museum Set": "Deep Earth",
+    "Comment": "These berries have a glasslike appearance and are very sweet."
+  },
+  {
+    "Image": "https://fieldsofmistria.wiki.gg/images/f/f6/Crystal_rose.png",
+    "Crop": "Crystal Rose",
+    "Growth Rate": "",
+    "Seed Price at The General Store": "",
+    "Season": "All",
+    "Location": "Deep Earth Caverns",
+    "Museum Set": "Deep Earth",
+    "Comment": "This delicate, shimmering rose appears to be made of crystal."
+  },
+  {
+    "Image": "https://fieldsofmistria.wiki.gg/images/8/83/Earthshroom.png",
+    "Crop": "Earthshroom",
+    "Growth Rate": "",
+    "Seed Price at The General Store": "",
+    "Season": "All",
+    "Location": "Deep Earth Caverns",
+    "Museum Set": "Deep Earth",
+    "Comment": "These mushrooms grow in dense clusters, and smell strongly of earth."
+  },
+  {
+    "Image": "https://fieldsofmistria.wiki.gg/images/0/06/Rockroot.png",
+    "Crop": "Rockroot",
+    "Growth Rate": "",
+    "Seed Price at The General Store": "",
+    "Season": "All",
+    "Location": "Deep Earth Caverns",
+    "Museum Set": "Deep Earth",
+    "Comment": "It's hard to tell if this is part of a living plant or if it just resembles one."
+  },
+  {
+    "Image": "https://fieldsofmistria.wiki.gg/images/e/e8/Shale_grass.png",
+    "Crop": "Shale Grass",
+    "Growth Rate": "",
+    "Seed Price at The General Store": "",
+    "Season": "All",
+    "Location": "Deep Earth Caverns",
+    "Museum Set": "Deep Earth",
+    "Comment": "This grass only looks like it's made of rock. Very tough to cut."
+  },
+  {
+    "Image": "https://fieldsofmistria.wiki.gg/images/a/aa/Jade_dulse.png",
+    "Crop": "Jade Dulse",
+    "Growth Rate": "",
+    "Seed Price at The General Store": "",
+    "Season": "All",
+    "Location": "Tide Caverns",
+    "Museum Set": "Tide Caverns",
+    "Comment": "This seaweed makes a great thickener for soups. Used in a variety of cooking recipes."
+  },
+  {
+    "Image": "https://fieldsofmistria.wiki.gg/images/d/d2/Mines_mussels.png",
+    "Crop": "Mines Mussels",
+    "Growth Rate": "",
+    "Seed Price at The General Store": "",
+    "Season": "All",
+    "Location": "Tide Caverns",
+    "Museum Set": "Tide Caverns",
+    "Comment": "These mussels grow in bunches underground. Used in a variety of cooking recipes."
+  },
+  {
+    "Image": "https://fieldsofmistria.wiki.gg/images/1/14/Sea_grapes.png",
+    "Crop": "Sea Grapes",
+    "Growth Rate": "",
+    "Seed Price at The General Store": "",
+    "Season": "All",
+    "Location": "Tide Caverns",
+    "Museum Set": "Tide Caverns",
+    "Comment": "These grapes have a salty pop that adds a briny taste to any dish. Used in a variety of cooking recipes."
+  },
+  {
+    "Image": "https://fieldsofmistria.wiki.gg/images/9/9a/Tide_lettuce.png",
+    "Crop": "Tide Lettuce",
+    "Growth Rate": "",
+    "Seed Price at The General Store": "",
+    "Season": "All",
+    "Location": "Tide Caverns",
+    "Museum Set": "Tide Caverns",
+    "Comment": "This wild lettuce has a rich flavor and a satisfying crunch. Used in a variety of cooking recipes."
+  },
+  {
+    "Image": "https://fieldsofmistria.wiki.gg/images/7/76/Underseaweed.png",
+    "Crop": "Underseaweed",
+    "Growth Rate": "",
+    "Seed Price at The General Store": "",
+    "Season": "All",
+    "Location": "Tide Caverns",
+    "Museum Set": "Tide Caverns",
+    "Comment": "This seaweed has a mild flavor and bouncy texture. Used in a variety of cooking recipes."
+  },
+  {
+    "Image": "https://fieldsofmistria.wiki.gg/images/a/a5/Narrows_moss.png",
+    "Crop": "Narrows Moss",
+    "Growth Rate": "",
+    "Seed Price at The General Store": "",
+    "Season": "All",
+    "Location": "Upper Mines",
+    "Museum Set": "Upper Mines",
+    "Comment": "A unique species of moss. Very exciting to moss experts."
+  },
+  {
+    "Image": "https://fieldsofmistria.wiki.gg/images/c/c3/Red_toadstool.png",
+    "Crop": "Red Toadstool",
+    "Growth Rate": "",
+    "Seed Price at The General Store": "",
+    "Season": "All",
+    "Location": "Upper Mines",
+    "Museum Set": "Upper Mines",
+    "Comment": "A red mushroom sometimes dropped by Mushroom monsters. Likely poisonous."
+  },
+  {
+    "Image": "https://fieldsofmistria.wiki.gg/images/c/c7/Shadow_flower.png",
+    "Crop": "Shadow Flower",
+    "Growth Rate": "",
+    "Seed Price at The General Store": "",
+    "Season": "All",
+    "Location": "Upper Mines",
+    "Museum Set": "Upper Mines",
+    "Comment": "A rare flower that only grows in darkness. It makes a unique gift."
+  },
+  {
+    "Image": "https://fieldsofmistria.wiki.gg/images/3/3e/Sweetroot.png",
+    "Crop": "Sweetroot",
+    "Growth Rate": "",
+    "Seed Price at The General Store": "",
+    "Season": "All",
+    "Location": "Upper Mines",
+    "Museum Set": "Upper Mines",
+    "Comment": "A root that grows in caves underground. Makes a great snack, even when eaten raw!"
+  },
+  {
+    "Image": "https://fieldsofmistria.wiki.gg/images/2/2e/Upper_mines_mushroom.png",
+    "Crop": "Upper Mines Mushroom",
+    "Growth Rate": "",
+    "Seed Price at The General Store": "",
+    "Season": "All",
+    "Location": "Upper Mines",
+    "Museum Set": "Upper Mines",
+    "Comment": "A wild mushroom with a great flavor and texture. Commonly used as a cooking ingredient."
+  }
+]

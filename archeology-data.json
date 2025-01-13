@@ -1,0 +1,597 @@
+[
+  {
+    "Image": "https://fieldsofmistria.wiki.gg/images/4/48/Aldarian_gauntlet.png",
+    "Name": "Aldarian Gauntlet",
+    "Location": "The Narrows",
+    "Museum Set": "Aldarian",
+    "Comment": "A rare artifact. This battle-worn gauntlet shows heavy use."
+  },
+  {
+    "Image": "https://fieldsofmistria.wiki.gg/images/0/0f/Aldarian_sword.png",
+    "Name": "Aldarian Sword",
+    "Location": "The Narrows",
+    "Museum Set": "Aldarian",
+    "Comment": "An uncommon artifact. A worn military sword, likely from the War of the Lilies."
+  },
+  {
+    "Image": "https://fieldsofmistria.wiki.gg/images/3/3f/Aldarian_war_banner.png",
+    "Name": "Aldarian War Banner",
+    "Location": "The Narrows",
+    "Museum Set": "Aldarian",
+    "Comment": "A rare artifact. Emblazoned with the royal crest of Aldaria."
+  },
+  {
+    "Image": "https://fieldsofmistria.wiki.gg/images/8/8c/Family_crest_pendant.png",
+    "Name": "Family Crest Pendant",
+    "Location": "The Narrows",
+    "Museum Set": "Aldarian",
+    "Comment": "An uncommon artifact. Once widely adopted in Aldaria, pendants were given to family members who were leaving home for the first time."
+  },
+  {
+    "Image": "https://fieldsofmistria.wiki.gg/images/f/f6/Lost_crown_of_aldaria.png",
+    "Name": "Lost Crown of Aldaria",
+    "Location": "The Narrows",
+    "Museum Set": "Aldarian",
+    "Comment": "A legendary artifact. Could this be the crown that was lost after the Caldosian Empire's invasion?"
+  },
+  {
+    "Image": "https://fieldsofmistria.wiki.gg/images/3/3a/Caldosian_breastplate.png",
+    "Name": "Caldosian Breastplate",
+    "Location": "The Eastern Road",
+    "Museum Set": "Caldosian",
+    "Comment": "A rare artifact. This magnificent breastplate is so ornate, it was likely used for ceremonial purposes."
+  },
+  {
+    "Image": "https://fieldsofmistria.wiki.gg/images/5/5c/Caldosian_drinking_horn.png",
+    "Name": "Caldosian Drinking Horn",
+    "Location": "The Eastern Road",
+    "Museum Set": "Caldosian",
+    "Comment": "A rare artifact. Drinking horns were usually passed down through the family line."
+  },
+  {
+    "Image": "https://fieldsofmistria.wiki.gg/images/d/d0/Caldosian_emperor_bust.png",
+    "Name": "Caldosian Emperor Bust",
+    "Location": "The Eastern Road",
+    "Museum Set": "Caldosian",
+    "Comment": "An uncommon artifact. The bust of a Caldosian Emperor. It's not clear which one."
+  },
+  {
+    "Image": "https://fieldsofmistria.wiki.gg/images/1/12/Caldosian_sword.png",
+    "Name": "Caldosian Sword",
+    "Location": "The Eastern Road",
+    "Museum Set": "Caldosian",
+    "Comment": "An uncommon artifact. An imperial officer's sword from the early days of the Caldosian Empire."
+  },
+  {
+    "Image": "https://fieldsofmistria.wiki.gg/images/4/48/Statuette_of_caldarus.png",
+    "Name": "Statuette of Caldarus",
+    "Location": "The Eastern Road",
+    "Museum Set": "Caldosian",
+    "Comment": "A legendary artifact. There seems to have been a subset of the empire that once worshiped Caldarus..."
+  },
+  {
+    "Image": "https://fieldsofmistria.wiki.gg/images/c/c9/Alda_bronze_sword.png",
+    "Name": "Alda Bronze Sword",
+    "Location": "Sweetwater Farm",
+    "Museum Set": "Alda",
+    "Comment": "A rare artifact. Its intricate carvings and blue-green patina give this sword an otherworldly appearance."
+  },
+  {
+    "Image": "https://fieldsofmistria.wiki.gg/images/5/5b/Alda_clay_pot.png",
+    "Name": "Alda Clay Pot",
+    "Location": "Sweetwater Farm",
+    "Museum Set": "Alda",
+    "Comment": "An uncommon artifact. Made from rich river clay, a faded pattern can still be seen. Once used by the Alda people to store food."
+  },
+  {
+    "Image": "https://fieldsofmistria.wiki.gg/images/b/b0/Alda_feather_pendant.png",
+    "Name": "Alda Feather Pendant",
+    "Location": "Sweetwater Farm",
+    "Museum Set": "Alda",
+    "Comment": "An uncommon artifact. Once used in marriage proposals, beautifully designed."
+  },
+  {
+    "Image": "https://fieldsofmistria.wiki.gg/images/5/5d/Alda_gem_bracelet.png",
+    "Name": "Alda Gem Bracelet",
+    "Location": "Sweetwater Farm",
+    "Museum Set": "Alda",
+    "Comment": "A legendary artifact. Non-local gems suggest the Alda had trading partners across the sea."
+  },
+  {
+    "Image": "https://fieldsofmistria.wiki.gg/images/6/62/Alda_mural_tablet.png",
+    "Name": "Alda Mural Tablet",
+    "Location": "Sweetwater Farm",
+    "Museum Set": "Alda",
+    "Comment": "A rare artifact. Depicts a scene of the Mistrian coast, as seen hundreds of years ago."
+  },
+  {
+    "Image": "https://fieldsofmistria.wiki.gg/images/b/b0/Ancient_crystal_goblet.png",
+    "Name": "Ancient Crystal Goblet",
+    "Location": "The Western Ruins",
+    "Museum Set": "Ancient",
+    "Comment": "A rare artifact. Elegant and sturdy, this goblet was likely used during Witch Queen rituals."
+  },
+  {
+    "Image": "https://fieldsofmistria.wiki.gg/images/b/bd/Ancient_gold_coin.png",
+    "Name": "Ancient Gold Coin",
+    "Location": "The Western Ruins",
+    "Museum Set": "Ancient",
+    "Comment": "An uncommon artifact. Etched with the outline of the Witch Queen on one side, and a magnificent tower on the other."
+  },
+  {
+    "Image": "https://fieldsofmistria.wiki.gg/images/b/b6/Ancient_horn_circlet.png",
+    "Name": "Ancient Horn Circlet",
+    "Location": "The Western Ruins",
+    "Museum Set": "Ancient",
+    "Comment": "A rare artifact. A horn circlet from the age of the Witch Queens. Was this a fashion accessory or did it serve a greater purpose?"
+  },
+  {
+    "Image": "https://fieldsofmistria.wiki.gg/images/d/d7/Ancient_royal_scepter.png",
+    "Name": "Ancient Royal Scepter",
+    "Location": "The Western Ruins",
+    "Museum Set": "Ancient",
+    "Comment": "A legendary artifact. A Royal Scepter with the head of a dragon. The symbol of the Witch Queen's authority."
+  },
+  {
+    "Image": "https://fieldsofmistria.wiki.gg/images/2/20/Ancient_stone_lantern.png",
+    "Name": "Ancient Stone Lantern",
+    "Location": "The Western Ruins",
+    "Museum Set": "Ancient",
+    "Comment": "An uncommon artifact. An impossibly delicate stone lantern from the age of the Witch Queens. It still retains an ethereal glow from within."
+  },
+  {
+    "Image": "https://fieldsofmistria.wiki.gg/images/6/66/Amber-trapped_insect.png",
+    "Name": "Amber Trapped Insect",
+    "Location": "The Beach",
+    "Museum Set": "Prehistoric",
+    "Comment": "An uncommon artifact. It's noticeably bigger than today's insects."
+  },
+  {
+    "Image": "https://fieldsofmistria.wiki.gg/images/e/ef/Fossilized_egg.png",
+    "Name": "Fossilized Egg",
+    "Location": "The Beach",
+    "Museum Set": "Prehistoric",
+    "Comment": "A rare artifact. What could be inside?"
+  },
+  {
+    "Image": "https://fieldsofmistria.wiki.gg/images/9/9e/Meteorite.png",
+    "Name": "Meteorite",
+    "Location": "The Beach",
+    "Museum Set": "Prehistoric",
+    "Comment": "A legendary artifact. There's no telling how long ago it fell..."
+  },
+  {
+    "Image": "https://fieldsofmistria.wiki.gg/images/e/e7/Tiny_dinosaur_skeleton.png",
+    "Name": "Tiny Dinosaur Skeleton",
+    "Location": "The Beach",
+    "Museum Set": "Prehistoric",
+    "Comment": "A rare artifact. Definitely not just a lizard."
+  },
+  {
+    "Image": "https://fieldsofmistria.wiki.gg/images/c/c6/Trilobite_fossil.png",
+    "Name": "Trilobite Fossil",
+    "Location": "The Beach",
+    "Museum Set": "Prehistoric",
+    "Comment": "An uncommon artifact. Too many legs, but still kinda cute."
+  },
+  {
+    "Image": "https://fieldsofmistria.wiki.gg/images/0/05/Black_tablet.png",
+    "Name": "Black Tablet",
+    "Location": "Dig Spots (requires Well Placed Skill)",
+    "Museum Set": "Oopart",
+    "Comment": "An uncommon artifact. Made of a strange metal, it's not clear what this is for."
+  },
+  {
+    "Image": "https://fieldsofmistria.wiki.gg/images/8/80/Completely_wrong_map.png",
+    "Name": "Completely Wrong Map",
+    "Location": "Dig Spots (requires Well Placed Skill)",
+    "Museum Set": "Oopart",
+    "Comment": "An uncommon artifact. A badly faded map that appears to show a landmass where the Western Bay now lies."
+  },
+  {
+    "Image": "https://fieldsofmistria.wiki.gg/images/3/32/Muttering_cube.png",
+    "Name": "Muttering Cube",
+    "Location": "Dig Spots (requires Well Placed Skill)",
+    "Museum Set": "Oopart",
+    "Comment": "An uncommon artifact. This device emits a low hiss most of the time, and occasionally what sounds like voices from far away."
+  },
+  {
+    "Image": "https://fieldsofmistria.wiki.gg/images/b/bc/Unknown_dragon_statuette.png",
+    "Name": "Unknown Dragon Statuette",
+    "Location": "Dig Spots (requires Well Placed Skill)",
+    "Museum Set": "Oopart",
+    "Comment": "An uncommon artifact. This doesn't appear to be Caldarus."
+  },
+  {
+    "Image": "https://fieldsofmistria.wiki.gg/images/0/0c/Weightless_stone.png",
+    "Name": "Weightless Stone",
+    "Location": "Dig Spots (requires Well Placed Skill)",
+    "Museum Set": "Oopart",
+    "Comment": "An uncommon artifact. This black stone appears otherworldly in origin. It has no weight, and will roll around from the slightest breeze."
+  },
+  {
+    "Image": "https://fieldsofmistria.wiki.gg/images/4/4e/Coin_lump.png",
+    "Name": "Coin Lump",
+    "Location": "Found whilst fishing (requires Aquatic Antiquities Skill)",
+    "Museum Set": "Aquatic",
+    "Comment": "An uncommon artifact. A mass of old coins, fused together by time."
+  },
+  {
+    "Image": "https://fieldsofmistria.wiki.gg/images/1/13/Giant_fish_scale.png",
+    "Name": "Giant Fish Scale",
+    "Location": "Found whilst fishing (requires Aquatic Antiquities Skill)",
+    "Museum Set": "Aquatic",
+    "Comment": "An uncommon artifact. Can't imagine what fish this came from."
+  },
+  {
+    "Image": "https://fieldsofmistria.wiki.gg/images/5/59/Rubber_fish.png",
+    "Name": "Rubber Fish",
+    "Location": "Found whilst fishing (requires Aquatic Antiquities Skill)",
+    "Museum Set": "Aquatic",
+    "Comment": "An uncommon artifact. How did this get in the water in the first place?"
+  },
+  {
+    "Image": "https://fieldsofmistria.wiki.gg/images/d/dd/Rusted_treasure_chest.png",
+    "Name": "Rusted Treasure Chest",
+    "Location": "Found whilst fishing (requires Aquatic Antiquities Skill)",
+    "Museum Set": "Aquatic",
+    "Comment": "An uncommon artifact. Looks quite valuable, a shame it can't be opened."
+  },
+  {
+    "Image": "https://fieldsofmistria.wiki.gg/images/a/a8/Water_sphere.png",
+    "Name": "Water Sphere",
+    "Location": "Found whilst fishing (requires Aquatic Antiquities Skill)",
+    "Museum Set": "Aquatic",
+    "Comment": "An uncommon artifact. You're not sure why, but it won't pop."
+  },
+  {
+    "Image": "https://fieldsofmistria.wiki.gg/images/a/ae/Criminal_confession.png",
+    "Name": "Criminal Confession",
+    "Location": "Found whilst Diving (requires Sunken Secrets Skill)",
+    "Museum Set": "Sunken",
+    "Comment": "An uncommon artifact. Too bad the pages are fused together."
+  },
+  {
+    "Image": "https://fieldsofmistria.wiki.gg/images/7/7d/Mermaid%27s_comb.png",
+    "Name": "Mermaid's Comb",
+    "Location": "Found whilst Diving (requires Sunken Secrets Skill)",
+    "Museum Set": "Sunken",
+    "Comment": "An uncommon artifact. Looks suspiciously like a fork."
+  },
+  {
+    "Image": "https://fieldsofmistria.wiki.gg/images/5/53/Rainbow_seaweed.png",
+    "Name": "Rainbow Seaweed",
+    "Location": "Found whilst Diving (requires Sunken Secrets Skill)",
+    "Museum Set": "Sunken",
+    "Comment": "An uncommon artifact. Can only be found floating in the current, no one seems to know where it grows."
+  },
+  {
+    "Image": "https://fieldsofmistria.wiki.gg/images/c/cb/Rock_with_a_hole.png",
+    "Name": "Rock with a Hole",
+    "Location": "Found whilst Diving (requires Sunken Secrets Skill)",
+    "Museum Set": "Sunken",
+    "Comment": "An uncommon artifact. Seems to be naturally formed."
+  },
+  {
+    "Image": "https://fieldsofmistria.wiki.gg/images/c/c9/Rusted_shield.png",
+    "Name": "Rusted Shield",
+    "Location": "Found whilst Diving (requires Sunken Secrets Skill)",
+    "Museum Set": "Sunken",
+    "Comment": "An uncommon artifact. A very old shield with an unusual design."
+  },
+  {
+    "Image": "https://fieldsofmistria.wiki.gg/images/5/58/Diamond_backed_mirror.png",
+    "Name": "Diamond-backed Mirror",
+    "Location": "The Mines",
+    "Museum Set": "Buried",
+    "Comment": "A rare artifact. The use of diamond here feels impractical."
+  },
+  {
+    "Image": "https://fieldsofmistria.wiki.gg/images/0/0b/Flint_arrowhead.png",
+    "Name": "Flint Arrowhead",
+    "Location": "The Mines",
+    "Museum Set": "Buried",
+    "Comment": "An uncommon artifact. Likely lost during a hunt."
+  },
+  {
+    "Image": "https://fieldsofmistria.wiki.gg/images/3/36/Obsidian_blade.png",
+    "Name": "Obsidian Blade",
+    "Location": "The Mines",
+    "Museum Set": "Buried",
+    "Comment": "A rare artifact. The artifact is still dangerously sharp."
+  },
+  {
+    "Image": "https://fieldsofmistria.wiki.gg/images/c/c4/Shortcut_scroll.png",
+    "Name": "Shortcut Scroll",
+    "Location": "The Mines",
+    "Museum Set": "Buried",
+    "Comment": "A legendary artifact. The scroll appears to show a quick and easy route to the bottom of the Mines, but you don't recognize any of the paths."
+  },
+  {
+    "Image": "https://fieldsofmistria.wiki.gg/images/a/a9/Stone_horse.png",
+    "Name": "Stone Horse",
+    "Location": "The Mines",
+    "Museum Set": "Buried",
+    "Comment": "An uncommon artifact. Carefully carved and very cute."
+  },
+  {
+    "Image": "https://fieldsofmistria.wiki.gg/images/0/07/Miner%27s_helmet.png",
+    "Name": "Miner's Helmet",
+    "Location": "Upper Mines",
+    "Museum Set": "Upper Mines",
+    "Comment": "A rare artifact. There is a worn away name on it that ends with the letter L..."
+  },
+  {
+    "Image": "https://fieldsofmistria.wiki.gg/images/5/54/Miner%27s_pickaxe.png",
+    "Name": "Miner's Pickaxe",
+    "Location": "Upper Mines",
+    "Museum Set": "Upper Mines",
+    "Comment": "A common artifact. It's in pretty good condition despite its age."
+  },
+  {
+    "Image": "https://fieldsofmistria.wiki.gg/images/2/27/Miner%27s_rucksack.png",
+    "Name": "Miner's Rucksack",
+    "Location": "Upper Mines",
+    "Museum Set": "Upper Mines",
+    "Comment": "An uncommon artifact. It seems to have been down in the Mines a long time."
+  },
+  {
+    "Image": "https://fieldsofmistria.wiki.gg/images/0/03/Miner%27s_slab.png",
+    "Name": "Miner's Slab",
+    "Location": "Upper Mines",
+    "Museum Set": "Upper Mines",
+    "Comment": "An uncommon artifact. It appears to warn of pitfalls ahead."
+  },
+  {
+    "Image": "https://fieldsofmistria.wiki.gg/images/2/2b/Tin_lunchbox.png",
+    "Name": "Tin Lunchbox",
+    "Location": "Upper Mines",
+    "Museum Set": "Upper Mines",
+    "Comment": "A common artifact. Sadly, it's empty."
+  },
+  {
+    "Image": "https://fieldsofmistria.wiki.gg/images/7/70/Crab_statue.png",
+    "Name": "Crab Statue",
+    "Location": "Tide Caverns",
+    "Museum Set": "Tide Caverns",
+    "Comment": "A rare artifact. This delicately crafted statue seems almost alive."
+  },
+  {
+    "Image": "https://fieldsofmistria.wiki.gg/images/c/c3/Dense_water.png",
+    "Name": "Dense Water",
+    "Location": "Tide Caverns",
+    "Museum Set": "Tide Caverns",
+    "Comment": "An uncommon artifact. This water is so dense that it holds its shape even in air."
+  },
+  {
+    "Image": "https://fieldsofmistria.wiki.gg/images/5/58/Starlight_coral.png",
+    "Name": "Starlight Coral",
+    "Location": "Tide Caverns",
+    "Museum Set": "Tide Caverns",
+    "Comment": "A common artifact. This piece of coal glimmers as if reflecting starlight."
+  },
+  {
+    "Image": "https://fieldsofmistria.wiki.gg/images/2/23/Stone_shell.png",
+    "Name": "Stone Shell",
+    "Location": "Tide Caverns",
+    "Museum Set": "Tide Caverns",
+    "Comment": "A common artifact. When you hold it to your ear, you can hear the sound of water flowing through deep caves."
+  },
+  {
+    "Image": "https://fieldsofmistria.wiki.gg/images/0/08/Tidestone.png",
+    "Name": "Tidestone",
+    "Location": "Tide Caverns",
+    "Museum Set": "Tide Caverns",
+    "Comment": "An uncommon artifact. This chunk of stone appears to grow and shrink slightly along with the tides."
+  },
+  {
+    "Image": "https://fieldsofmistria.wiki.gg/images/5/5f/Earth-infused_stone.png",
+    "Name": "Earth-infused Stone",
+    "Location": "Deep Earth",
+    "Museum Set": "Deep Earth",
+    "Comment": "An uncommon artifact. This chunk of rock has taken on elemental qualities of earth."
+  },
+  {
+    "Image": "https://fieldsofmistria.wiki.gg/images/f/f7/Faceted_rock_gem.png",
+    "Name": "Faceted Rock Gem",
+    "Location": "Deep Earth",
+    "Museum Set": "Deep Earth",
+    "Comment": "An uncommon artifact. Despite its mesmerizing, gem-like appearance, it's just a piece of rock."
+  },
+  {
+    "Image": "https://fieldsofmistria.wiki.gg/images/6/60/Really_round_rock.png",
+    "Name": "Really Round Rock",
+    "Location": "Deep Earth",
+    "Museum Set": "Deep Earth",
+    "Comment": "A common artifact. This naturally formed stone is unnaturally round."
+  },
+  {
+    "Image": "https://fieldsofmistria.wiki.gg/images/5/53/Rock_statue.png",
+    "Name": "Rock Statue",
+    "Location": "Deep Earth",
+    "Museum Set": "Deep Earth",
+    "Comment": "A rare artifact. This naturally formed stone appears to be in the shape of a human, but... surely it's just a coincidence."
+  },
+  {
+    "Image": "https://fieldsofmistria.wiki.gg/images/d/d7/Seriously_square_stone.png",
+    "Name": "Seriously Square Stone",
+    "Location": "Deep Earth",
+    "Museum Set": "Deep Earth",
+    "Comment": "An uncommon artifact. This naturally formed stone is a perfect square, a true delight for a rock connoisseur."
+  },
+  {
+    "Image": "https://fieldsofmistria.wiki.gg/images/e/ec/Ritual_beads.png",
+    "Name": "Ritual Beads",
+    "Location": "Ritual Chambers (requires Lost to History Skill)",
+    "Museum Set": "Ritual",
+    "Comment": "An uncommon artifact. Running these beads through your hand evokes a feeling of serenity."
+  },
+  {
+    "Image": "https://fieldsofmistria.wiki.gg/images/1/12/Ritual_chalice.png",
+    "Name": "Ritual Chalice",
+    "Location": "Ritual Chambers (requires Lost to History Skill)",
+    "Museum Set": "Ritual",
+    "Comment": "An uncommon artifact. This ornate chalice was presumably used during ancient rituals."
+  },
+  {
+    "Image": "https://fieldsofmistria.wiki.gg/images/5/59/Ritual_incense_burner.png",
+    "Name": "Ritual Incense Burner",
+    "Location": "Ritual Chambers (requires Lost to History Skill)",
+    "Museum Set": "Ritual",
+    "Comment": "An uncommon artifact. The faint scent of incense still clings to this ancient burner."
+  },
+  {
+    "Image": "https://fieldsofmistria.wiki.gg/images/e/ee/Ritual_scepter.png",
+    "Name": "Ritual Scepter",
+    "Location": "Ritual Chambers (requires Lost to History Skill)",
+    "Museum Set": "Ritual",
+    "Comment": "A rare artifact. This ritual scepter was likely used by Dragon Priestesses during rituals."
+  },
+  {
+    "Image": "https://fieldsofmistria.wiki.gg/images/f/fb/Ritual_tablet.png",
+    "Name": "Ritual Tablet",
+    "Location": "Ritual Chambers (requires Lost to History Skill)",
+    "Museum Set": "Ritual",
+    "Comment": "A rare artifact. This tablet has a series of pictographs that show how to perform a ritual. It appears that one of the figures is a dragon."
+  },
+  {
+    "Image": "https://fieldsofmistria.wiki.gg/images/5/5d/Vintage_brush.png",
+    "Name": "Vintage Brush",
+    "Location": "The Farm (requires Former Farmers Skill)",
+    "Museum Set": "Vintage Farm Tools",
+    "Comment": "A rare artifact. This cute vintage tool was used to pet farm animals in years past."
+  },
+  {
+    "Image": "https://fieldsofmistria.wiki.gg/images/6/61/Vintage_cow_bell.png",
+    "Name": "Vintage Cow Bell",
+    "Location": "The Farm (requires Former Farmers Skill)",
+    "Museum Set": "Vintage Farm Tools",
+    "Comment": "A legendary artifact. This vintage bell would have been used to call cows home in bygone years."
+  },
+  {
+    "Image": "https://fieldsofmistria.wiki.gg/images/7/7d/Vintage_hammer.png",
+    "Name": "Vintage Hammer",
+    "Location": "The Farm (requires Former Farmers Skill)",
+    "Museum Set": "Vintage Farm Tools",
+    "Comment": "An uncommon artifact. This vintage wooden hammer was used to break rocks before pickaxes were commonplace."
+  },
+  {
+    "Image": "https://fieldsofmistria.wiki.gg/images/b/b6/Vintage_sickle.png",
+    "Name": "Vintage Sickle",
+    "Location": "The Farm (requires Former Farmers Skill)",
+    "Museum Set": "Vintage Farm Tools",
+    "Comment": "An uncommon artifact. This vintage sickle was used by past generations to turn grass into fodder."
+  },
+  {
+    "Image": "https://fieldsofmistria.wiki.gg/images/a/aa/Vintage_watering_can.png",
+    "Name": "Vintage Watering Can",
+    "Location": "The Farm (requires Former Farmers Skill)",
+    "Museum Set": "Vintage Farm Tools",
+    "Comment": "An uncommon artifact. This vintage watering can was popular among farmers back in the day."
+  },
+  {
+    "Image": "https://fieldsofmistria.wiki.gg/images/9/9f/Perfect_copper_ore.png",
+    "Name": "Perfect Copper Ore",
+    "Location": "Upper Mines",
+    "Museum Set": "Metals of Mistria",
+    "Comment": "An uncommon artifact. This large chunk of pure copper ore is worthy of display."
+  },
+  {
+    "Image": "https://fieldsofmistria.wiki.gg/images/9/90/Perfect_iron_ore.png",
+    "Name": "Perfect Iron Ore",
+    "Location": "Tide Caverns",
+    "Museum Set": "Metals of Mistria",
+    "Comment": "An uncommon artifact. This chunk of iron is too magnificent to simply melt down."
+  },
+  {
+    "Image": "https://fieldsofmistria.wiki.gg/images/0/0a/Perfect_silver_ore.png",
+    "Name": "Perfect Silver Ore",
+    "Location": "Deep Earth",
+    "Museum Set": "Metals of Mistria",
+    "Comment": "An uncommon artifact. The size and sheen on this piece of silver is a work of art."
+  },
+  {
+    "Image": "https://fieldsofmistria.wiki.gg/images/6/63/Perfect_gold_ore.png",
+    "Name": "Perfect Gold Ore",
+    "Location": "Lava Caves",
+    "Museum Set": "Metals of Mistria",
+    "Comment": "A rare artifact. This gold ore is incredibly large and splendid."
+  },
+  {
+    "Image": "https://fieldsofmistria.wiki.gg/images/2/21/Perfect_mistril_ore.png",
+    "Name": "Perfect Mistril Ore",
+    "Location": "Ancient Ruins",
+    "Museum Set": "Metals of Mistria",
+    "Comment": "A rare artifact. This mistril ore is incredibly large and splendid."
+  },
+  {
+    "Image": "https://fieldsofmistria.wiki.gg/images/1/1a/Perfect_ruby.png",
+    "Name": "Perfect Ruby",
+    "Location": "Upper Mines",
+    "Museum Set": "Gems of Mistria",
+    "Comment": "A rare artifact. This ruby is incredibly large and splendid."
+  },
+  {
+    "Image": "https://fieldsofmistria.wiki.gg/images/f/fe/Perfect_sapphire.png",
+    "Name": "Perfect Sapphire",
+    "Location": "Tide Caverns",
+    "Museum Set": "Gems of Mistria",
+    "Comment": "A rare artifact. This unusually large sapphire seems to glow from within."
+  },
+  {
+    "Image": "https://fieldsofmistria.wiki.gg/images/4/48/Perfect_emerald.png",
+    "Name": "Perfect Emerald",
+    "Location": "Deep Earth",
+    "Museum Set": "Gems of Mistria",
+    "Comment": "An uncommon artifact. An emerald of this clarity would gain nothing from being worked further."
+  },
+  {
+    "Image": "https://fieldsofmistria.wiki.gg/images/e/e2/Perfect_diamond.png",
+    "Name": "Perfect Diamond",
+    "Location": "Lava Caves",
+    "Museum Set": "Gems of Mistria",
+    "Comment": "A rare artifact. This diamond is incredibly large and splendid."
+  },
+  {
+    "Image": "https://fieldsofmistria.wiki.gg/images/5/54/Perfect_pink_diamond.png",
+    "Name": "Perfect Pink Diamond",
+    "Location": "Ancient Ruins",
+    "Museum Set": "Gems of Mistria",
+    "Comment": "A rare artifact. This pink diamond is incredibly large and splendid."
+  },
+  {
+    "Image": "https://fieldsofmistria.wiki.gg/images/a/a2/Clay.png",
+    "Name": "Clay",
+    "Location": "Mining, Diving, Balor's Wagon for 50, Carpenter for 50",
+    "Museum Set": "Dig Site",
+    "Comment": "A small lump of clay. Used in a variety of crafting recipes."
+  },
+  {
+    "Image": "https://fieldsofmistria.wiki.gg/images/2/26/Peat.png",
+    "Name": "Peat",
+    "Location": "Mining, Carpenter for 50 (requires Steady Supplies Skill)",
+    "Museum Set": "Dig Site",
+    "Comment": "A brick of compressed organic matter, commonly burned as fuel. Used as a crafting material."
+  },
+  {
+    "Image": "https://fieldsofmistria.wiki.gg/images/4/4b/Shard_mass.png",
+    "Name": "Shard Mass",
+    "Location": "Archaeology, Balor's Wagon for 80",
+    "Museum Set": "Dig Site",
+    "Comment": "A large mass of shards originating from unknown artifacts. Used as a crafting material."
+  },
+  {
+    "Image": "https://fieldsofmistria.wiki.gg/images/8/84/Shards.png",
+    "Name": "Shards",
+    "Location": "Archaeology, Balor's Wagon for 50",
+    "Museum Set": "Dig Site",
+    "Comment": "Shards originating from unknown artifacts. Used as a crafting material."
+  },
+  {
+    "Image": "https://fieldsofmistria.wiki.gg/images/a/ac/Sod.png",
+    "Name": "Sod",
+    "Location": "Archaeology, Mining, Carpenter for 50 (requires Steady Supplies Skill)",
+    "Museum Set": "Dig Site",
+    "Comment": "A square of cut earth. Used as a crafting material."
+  }
+]

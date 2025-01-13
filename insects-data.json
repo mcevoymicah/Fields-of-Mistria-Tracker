@@ -1,0 +1,542 @@
+[
+  {
+    "Image": "https://fieldsofmistria.wiki.gg/images/5/56/Ant.png",
+    "Name": "Ant",
+    "Season": "Spring, Summer, Fall",
+    "Weather": "Sunny, Petals, Leaves, Rain, Rainy",
+    "Time": "All day",
+    "Museum Set": "Multi-Season",
+    "Comment": "A common insect found in all seasons but winter."
+  },
+  {
+    "Image": "https://fieldsofmistria.wiki.gg/images/9/90/Bumblebee.png",
+    "Name": "Bumblebee",
+    "Season": "Spring, Summer, Fall",
+    "Weather": "Sunny, Petals, Leaves",
+    "Time": "6AM - 8PM",
+    "Museum Set": "Multi-Season",
+    "Comment": "A common insect found during the daytime in all seasons but winter."
+  },
+  {
+    "Image": "https://fieldsofmistria.wiki.gg/images/6/64/Fuzzy_moth.png",
+    "Name": "Fuzzy Moth",
+    "Season": "All",
+    "Weather": "Sunny, Petals, Leaves",
+    "Time": "8PM - 2AM",
+    "Museum Set": "Multi-Season",
+    "Comment": "An uncommon insect found at night in all seasons."
+  },
+  {
+    "Image": "https://fieldsofmistria.wiki.gg/images/c/cf/Hummingbird_hawk_moth.png",
+    "Name": "Hummingbird Hawk Moth",
+    "Season": "Spring, Summer, Fall",
+    "Weather": "Any",
+    "Time": "All day",
+    "Museum Set": "Multi-Season",
+    "Comment": "A rare insect found in all seasons but winter."
+  },
+  {
+    "Image": "https://fieldsofmistria.wiki.gg/images/6/69/Praying_mantis.png",
+    "Name": "Praying Mantis",
+    "Season": "Spring, Summer, Fall",
+    "Weather": "Sunny, Petals, Leaves",
+    "Time": "6AM - 8PM",
+    "Museum Set": "Multi-Season",
+    "Comment": "A common insect found during the daytime in all seasons but winter."
+  },
+  {
+    "Image": "https://fieldsofmistria.wiki.gg/images/1/10/Butterfly.png",
+    "Name": "Butterfly",
+    "Season": "Spring",
+    "Weather": "Sunny, Petals",
+    "Time": "6AM - 8PM",
+    "Museum Set": "Spring",
+    "Comment": "A common insect found during the daytime in spring."
+  },
+  {
+    "Image": "https://fieldsofmistria.wiki.gg/images/6/66/Caterpillar.png",
+    "Name": "Caterpillar",
+    "Season": "Spring",
+    "Weather": "Sunny, Petals, Rain, Rainy",
+    "Time": "All day",
+    "Museum Set": "Spring",
+    "Comment": "A common insect found in spring. Sometimes found when shaking trees."
+  },
+  {
+    "Image": "https://fieldsofmistria.wiki.gg/images/3/38/Ladybug.png",
+    "Name": "Ladybug",
+    "Season": "Spring",
+    "Weather": "Sunny, Petals, Rain, Rainy",
+    "Time": "All day",
+    "Museum Set": "Spring",
+    "Comment": "A common insect found in spring."
+  },
+  {
+    "Image": "https://fieldsofmistria.wiki.gg/images/0/04/Luna_moth.png",
+    "Name": "Luna Moth",
+    "Season": "Spring",
+    "Weather": "Sunny, Petals",
+    "Time": "8PM - 2AM",
+    "Museum Set": "Spring",
+    "Comment": "A rare insect found at night in spring."
+  },
+  {
+    "Image": "https://fieldsofmistria.wiki.gg/images/1/15/Roly_poly.png",
+    "Name": "Roly Poly",
+    "Season": "Spring",
+    "Weather": "Any",
+    "Time": "All day",
+    "Museum Set": "Spring",
+    "Comment": "An uncommon insect found in spring. Found when breaking rocks."
+  },
+  {
+    "Image": "https://fieldsofmistria.wiki.gg/images/8/89/Cicada.png",
+    "Name": "Cicada",
+    "Season": "Summer",
+    "Weather": "Any",
+    "Time": "All day",
+    "Museum Set": "Summer",
+    "Comment": "A common insect found in summer. Sometimes found when shaking trees."
+  },
+  {
+    "Image": "https://fieldsofmistria.wiki.gg/images/3/3d/Cricket.png",
+    "Name": "Cricket",
+    "Season": "Summer",
+    "Weather": "Any",
+    "Time": "8PM - 2AM",
+    "Museum Set": "Summer",
+    "Comment": "A common insect found at night in summer."
+  },
+  {
+    "Image": "https://fieldsofmistria.wiki.gg/images/8/84/Dragonfly.png",
+    "Name": "Dragonfly",
+    "Season": "Summer",
+    "Weather": "Sunny, Rain, Rainy",
+    "Time": "6AM - 8PM",
+    "Museum Set": "Summer",
+    "Comment": "An uncommon insect found during the daytime in summer."
+  },
+  {
+    "Image": "https://fieldsofmistria.wiki.gg/images/d/d7/Firefly.png",
+    "Name": "Firefly",
+    "Season": "Summer",
+    "Weather": "Sunny",
+    "Time": "8PM - 2AM",
+    "Museum Set": "Summer",
+    "Comment": "A common insect found at night in summer."
+  },
+  {
+    "Image": "https://fieldsofmistria.wiki.gg/images/b/be/Sand_bug.png",
+    "Name": "Sand Bug",
+    "Season": "All",
+    "Weather": "Any",
+    "Time": "All day",
+    "Museum Set": "Summer",
+    "Comment": "A common insect found at the beach in all seasons."
+  },
+  {
+    "Image": "https://fieldsofmistria.wiki.gg/images/1/13/Cicada_nymph.png",
+    "Name": "Cicada Nymph",
+    "Season": "Fall",
+    "Weather": "Any",
+    "Time": "8PM - 2AM",
+    "Museum Set": "Fall",
+    "Comment": "A common insect found at night in fall."
+  },
+  {
+    "Image": "https://fieldsofmistria.wiki.gg/images/e/e0/Inchworm.png",
+    "Name": "Inchworm",
+    "Season": "Fall",
+    "Weather": "Any",
+    "Time": "All day",
+    "Museum Set": "Fall",
+    "Comment": "A common insect found in fall."
+  },
+  {
+    "Image": "https://fieldsofmistria.wiki.gg/images/c/cd/Monarch_butterfly.png",
+    "Name": "Monarch Butterfly",
+    "Season": "Fall",
+    "Weather": "Sunny, Leaves",
+    "Time": "6AM - 8PM",
+    "Museum Set": "Fall",
+    "Comment": "A common insect found during the daytime in fall."
+  },
+  {
+    "Image": "https://fieldsofmistria.wiki.gg/images/1/12/Tiger_swallowtail_butterfly.png",
+    "Name": "Tiger Swallowtail Butterfly",
+    "Season": "Fall",
+    "Weather": "Sunny, Leaves",
+    "Time": "6AM - 8PM",
+    "Museum Set": "Fall",
+    "Comment": "An uncommon insect found during the daytime in fall."
+  },
+  {
+    "Image": "https://fieldsofmistria.wiki.gg/images/f/f8/Walking_leaf.png",
+    "Name": "Walking Leaf",
+    "Season": "Fall",
+    "Weather": "Any",
+    "Time": "6AM - 8PM",
+    "Museum Set": "Fall",
+    "Comment": "An uncommon insect found during the daytime in fall. Sometimes found when shaking trees."
+  },
+  {
+    "Image": "https://fieldsofmistria.wiki.gg/images/8/87/Brightbulb_moth.png",
+    "Name": "Brightbulb Moth",
+    "Season": "Winter",
+    "Weather": "Sunny",
+    "Time": "8PM - 2AM",
+    "Museum Set": "Winter",
+    "Comment": "A common insect found at night in winter."
+  },
+  {
+    "Image": "https://fieldsofmistria.wiki.gg/images/6/6e/Crystal_caterpillar.png",
+    "Name": "Crystal Caterpillar",
+    "Season": "Winter",
+    "Weather": "Snow, Blizzard",
+    "Time": "All day",
+    "Museum Set": "Winter",
+    "Comment": "A rare insect found on snowy days in winter."
+  },
+  {
+    "Image": "https://fieldsofmistria.wiki.gg/images/6/61/Frost_flutter_butterfly.png",
+    "Name": "Frost Flutter Butterfly",
+    "Season": "Winter",
+    "Weather": "Sunny",
+    "Time": "6AM - 8PM",
+    "Museum Set": "Winter",
+    "Comment": "A common insect found during the daytime in winter."
+  },
+  {
+    "Image": "https://fieldsofmistria.wiki.gg/images/d/d9/Walking_stick.png",
+    "Name": "Walking Stick",
+    "Season": "Winter",
+    "Weather": "Any",
+    "Time": "All day",
+    "Museum Set": "Winter",
+    "Comment": "An uncommon insect found in winter."
+  },
+  {
+    "Image": "https://fieldsofmistria.wiki.gg/images/a/a8/Winterpillar.png",
+    "Name": "Winterpillar",
+    "Season": "Winter",
+    "Weather": "Any",
+    "Time": "All day",
+    "Museum Set": "Winter",
+    "Comment": "A common insect found in winter. Sometimes found when shaking trees."
+  },
+  {
+    "Image": "https://fieldsofmistria.wiki.gg/images/3/31/Jewel_beetle.png",
+    "Name": "Jewel Beetle",
+    "Season": "Summer",
+    "Weather": "Any",
+    "Time": "All day",
+    "Museum Set": "Rare",
+    "Comment": "An uncommon insect found in summer. Found when breaking rocks."
+  },
+  {
+    "Image": "https://fieldsofmistria.wiki.gg/images/7/7a/Lightning_dragonfly.png",
+    "Name": "Lightning Dragonfly",
+    "Season": "Spring, Summer, Fall",
+    "Weather": "Storm, Thunderstorm",
+    "Time": "6AM - 8PM",
+    "Museum Set": "Rare",
+    "Comment": "A rare insect found during thunderstorms in all seasons but winter."
+  },
+  {
+    "Image": "https://fieldsofmistria.wiki.gg/images/4/43/Magma_beetle.png",
+    "Name": "Magma Beetle",
+    "Season": "Summer",
+    "Weather": "Any",
+    "Time": "All day",
+    "Museum Set": "Rare",
+    "Comment": "A rare insect found in summer."
+  },
+  {
+    "Image": "https://fieldsofmistria.wiki.gg/images/4/49/Mistmoth.png",
+    "Name": "Mistmoth",
+    "Season": "Fall",
+    "Weather": "Sunny, Leaves",
+    "Time": "8PM - 2AM",
+    "Museum Set": "Rare",
+    "Comment": "A rare insect found at night in fall."
+  },
+  {
+    "Image": "https://fieldsofmistria.wiki.gg/images/8/8e/Orchid_mantis.png",
+    "Name": "Orchid Mantis",
+    "Season": "Spring",
+    "Weather": "Sunny, Petals, Rain, Rainy",
+    "Time": "6AM - 8PM",
+    "Museum Set": "Rare",
+    "Comment": "A rare insect found during the daytime in spring."
+  },
+  {
+    "Image": "https://fieldsofmistria.wiki.gg/images/d/d9/Fairy_bee.png",
+    "Name": "Fairy Bee",
+    "Season": "Fall",
+    "Weather": "Sunny, Leaves",
+    "Time": "6AM - 11AM",
+    "Museum Set": "Legendary",
+    "Comment": "A legendary insect found in the morning during fall. It's beautiful!"
+  },
+  {
+    "Image": "https://fieldsofmistria.wiki.gg/images/1/19/Flower_crown_beetle.png",
+    "Name": "Flower Crown Beetle",
+    "Season": "Spring",
+    "Weather": "Sunny, Petals",
+    "Time": "6AM - 8PM",
+    "Museum Set": "Legendary",
+    "Comment": "A legendary insect found during the daytime in spring. It's so cute!"
+  },
+  {
+    "Image": "https://fieldsofmistria.wiki.gg/images/d/d1/Snowball_beetle.png",
+    "Name": "Snowball Beetle",
+    "Season": "Winter",
+    "Weather": "Blizzard",
+    "Time": "All day",
+    "Museum Set": "Legendary",
+    "Comment": "A legendary insect found during heavy snow in winter. It's adorable!"
+  },
+  {
+    "Image": "https://fieldsofmistria.wiki.gg/images/a/ae/Speedy_snail.png",
+    "Name": "Speedy Snail",
+    "Season": "Spring, Summer, Fall",
+    "Weather": "Sunny, Petals, Leaves, Rain, Rainy",
+    "Time": "6AM - 5PM",
+    "Museum Set": "Legendary",
+    "Comment": "A legendary gastropod found in all seasons but winter. It goes fast!"
+  },
+  {
+    "Image": "https://fieldsofmistria.wiki.gg/images/e/e2/Strobe_firefly.png",
+    "Name": "Strobe Firefly",
+    "Season": "Summer",
+    "Weather": "Sunny",
+    "Time": "8PM - 2AM",
+    "Museum Set": "Legendary",
+    "Comment": "A legendary insect found at night in summer. It's mesmerizing!"
+  },
+  {
+    "Image": "https://fieldsofmistria.wiki.gg/images/f/f4/Copper_nugget_beetle.png",
+    "Name": "Copper Nugget Beetle",
+    "Season": "All",
+    "Weather": "Any",
+    "Time": "All day",
+    "Museum Set": "Upper Mines",
+    "Comment": "An uncommon Upper Mines insect. Their unique coloration is great camouflage."
+  },
+  {
+    "Image": "https://fieldsofmistria.wiki.gg/images/c/cc/Lantern_moth.png",
+    "Name": "Lantern Moth",
+    "Season": "All",
+    "Weather": "Any",
+    "Time": "All day",
+    "Museum Set": "Upper Mines",
+    "Comment": "A common Upper Mines insect. They gather near light sources in dark places."
+  },
+  {
+    "Image": "https://fieldsofmistria.wiki.gg/images/1/1e/Mine_cricket.png",
+    "Name": "Mine Cricket",
+    "Season": "All",
+    "Weather": "Any",
+    "Time": "All day",
+    "Museum Set": "Upper Mines",
+    "Comment": "A rare Upper Mines insect. Their songs are kinda catchy..."
+  },
+  {
+    "Image": "https://fieldsofmistria.wiki.gg/images/0/0f/Tunnel_millipede.png",
+    "Name": "Tunnel Millipede",
+    "Season": "All",
+    "Weather": "Any",
+    "Time": "All day",
+    "Museum Set": "Upper Mines",
+    "Comment": "A common Upper Mines insect. Their many legs make quick work of tunneling."
+  },
+  {
+    "Image": "https://fieldsofmistria.wiki.gg/images/5/52/Worm.png",
+    "Name": "Worm",
+    "Season": "All",
+    "Weather": "Any",
+    "Time": "All day",
+    "Museum Set": "Upper Mines",
+    "Comment": "A common Upper Mines invertebrate. It's just a worm."
+  },
+  {
+    "Image": "https://fieldsofmistria.wiki.gg/images/1/16/Coral_mantis.png",
+    "Name": "Coral Mantis",
+    "Season": "All",
+    "Weather": "Any",
+    "Time": "All day",
+    "Museum Set": "Tide Caverns",
+    "Comment": "n uncommon Tide Caverns insect. Its camouflage has turned this mantis into a work of art."
+  },
+  {
+    "Image": "https://fieldsofmistria.wiki.gg/images/4/43/Hermit_snail.png",
+    "Name": "Hermit Snail",
+    "Season": "All",
+    "Weather": "Any",
+    "Time": "All day",
+    "Museum Set": "Tide Caverns",
+    "Comment": "An uncommon Tide Caverns insect. Decorates its shell with sand and brightly colored pebbles."
+  },
+  {
+    "Image": "https://fieldsofmistria.wiki.gg/images/5/5d/Puddle_spider.png",
+    "Name": "Puddle Spider",
+    "Season": "All",
+    "Weather": "Any",
+    "Time": "All day",
+    "Museum Set": "Tide Caverns",
+    "Comment": "An rare Tide Caverns insect. Seems to use the vibrations on puddles to hunt."
+  },
+  {
+    "Image": "https://fieldsofmistria.wiki.gg/images/b/b7/Sea_scarab.png",
+    "Name": "Sea Scarab",
+    "Season": "All",
+    "Weather": "Any",
+    "Time": "All day",
+    "Museum Set": "Tide Caverns",
+    "Comment": "A common Tide Caverns insect. Its pretty carapace looks like the sea on a sunny day."
+  },
+  {
+    "Image": "https://fieldsofmistria.wiki.gg/images/7/73/Waterfly.png",
+    "Name": "Waterfly",
+    "Season": "All",
+    "Weather": "Any",
+    "Time": "All day",
+    "Museum Set": "Tide Caverns",
+    "Comment": "A common Tide Caverns insect. Like its firefly cousin, it uses its blue glow to signal."
+  },
+  {
+    "Image": "https://fieldsofmistria.wiki.gg/images/6/63/Crystal_wing_moth.png",
+    "Name": "Crystal Wing Moth",
+    "Season": "All",
+    "Weather": "Any",
+    "Time": "All day",
+    "Museum Set": "Deep Earth",
+    "Comment": "A rare Deep Earth insect. Their delicate wings reflect the light and make them sparkle."
+  },
+  {
+    "Image": "https://fieldsofmistria.wiki.gg/images/9/9c/Crystalline_cricket.png",
+    "Name": "Crystalline Cricket",
+    "Season": "All",
+    "Weather": "Any",
+    "Time": "All day",
+    "Museum Set": "Deep Earth",
+    "Comment": "A common Deep Earth insect. The stones around it vibrate in tune with its song."
+  },
+  {
+    "Image": "https://fieldsofmistria.wiki.gg/images/f/f2/Deep_earthworm.png",
+    "Name": "Deep Earthworm",
+    "Season": "All",
+    "Weather": "Any",
+    "Time": "All day",
+    "Museum Set": "Deep Earth",
+    "Comment": "A common Deep Earth insect. It's completely unlike its surface-dwelling cousin... if you're a worm expert."
+  },
+  {
+    "Image": "https://fieldsofmistria.wiki.gg/images/9/90/Gem_shard_caterpillar.png",
+    "Name": "Gem Shard Caterpillar",
+    "Season": "All",
+    "Weather": "Any",
+    "Time": "All day",
+    "Museum Set": "Deep Earth",
+    "Comment": "An uncommon Deep Earth insect. It seems to feed on crystal berries."
+  },
+  {
+    "Image": "https://fieldsofmistria.wiki.gg/images/2/21/Rock_roach.png",
+    "Name": "Rock Roach",
+    "Season": "All",
+    "Weather": "Any",
+    "Time": "All day",
+    "Museum Set": "Deep Earth",
+    "Comment": "A common Deep Earth insect. It's cuter than you'd expect."
+  },
+  {
+    "Image": "https://fieldsofmistria.wiki.gg/images/f/fc/Grasshopper.png",
+    "Name": "Grasshopper",
+    "Season": "Spring, Summer, Fall",
+    "Weather": "Sunny, Petals, Leaves",
+    "Time": "All day",
+    "Museum Set": "Grass",
+    "Comment": "A common insect found during the daytime in all seasons but winter. Sometimes found when cutting grass."
+  },
+  {
+    "Image": "https://fieldsofmistria.wiki.gg/images/2/2b/Icehopper.png",
+    "Name": "Icehopper",
+    "Season": "Winter",
+    "Weather": "Any",
+    "Time": "All day",
+    "Museum Set": "Grass",
+    "Comment": "A common insect found in winter. Sometimes found when cutting grass."
+  },
+  {
+    "Image": "https://fieldsofmistria.wiki.gg/images/7/76/Leafhopper.png",
+    "Name": "Leafhopper",
+    "Season": "Fall",
+    "Weather": "Any",
+    "Time": "All day",
+    "Museum Set": "Grass",
+    "Comment": "A common insect found in fall. Sometimes found when cutting grass."
+  },
+  {
+    "Image": "https://fieldsofmistria.wiki.gg/images/d/dc/Petalhopper.png",
+    "Name": "Petalhopper",
+    "Season": "Spring",
+    "Weather": "Any",
+    "Time": "6AM - 8PM",
+    "Museum Set": "Grass",
+    "Comment": "A common insect found during the daytime in spring. Sometimes found when cutting grass."
+  },
+  {
+    "Image": "https://fieldsofmistria.wiki.gg/images/a/a9/Strawhopper.png",
+    "Name": "Strawhopper",
+    "Season": "Summer",
+    "Weather": "Any",
+    "Time": "All day",
+    "Museum Set": "Grass",
+    "Comment": "A common insect found in summer. Sometimes found when cutting grass."
+  },
+  {
+    "Image": "https://fieldsofmistria.wiki.gg/images/9/9c/Beach_hopper.png",
+    "Name": "Beach Hopper",
+    "Season": "All",
+    "Weather": "Any",
+    "Time": "All day",
+    "Museum Set": "Beach",
+    "Comment": "A common insect found at the beach in all seasons."
+  },
+  {
+    "Image": "https://fieldsofmistria.wiki.gg/images/a/ac/Hermit_crab.png",
+    "Name": "Hermit Crab",
+    "Season": "All",
+    "Weather": "Any",
+    "Time": "All day",
+    "Museum Set": "Beach",
+    "Comment": "A common crustacean found at the beach in all seasons."
+  },
+  {
+    "Image": "https://fieldsofmistria.wiki.gg/images/9/99/Relic_crab.png",
+    "Name": "Relic Crab",
+    "Season": "All",
+    "Weather": "Any",
+    "Time": "All day",
+    "Museum Set": "Beach",
+    "Comment": "An uncommon crustacean found at the beach in all seasons."
+  },
+  {
+    "Image": "https://fieldsofmistria.wiki.gg/images/2/2b/Surf_beetle.png",
+    "Name": "Surf Beetle",
+    "Season": "All",
+    "Weather": "Any",
+    "Time": "All day",
+    "Museum Set": "Beach",
+    "Comment": "A common insect found at the beach in all seasons."
+  },
+  {
+    "Image": "https://fieldsofmistria.wiki.gg/images/d/dd/Waterbug.png",
+    "Name": "Waterbug",
+    "Season": "All",
+    "Weather": "Any",
+    "Time": "All day",
+    "Museum Set": "Beach",
+    "Comment": "A common insect found at the beach in spring."
+  }
+]
