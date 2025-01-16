@@ -2,19 +2,19 @@
 const categoryMap = {
     archeology: {
       title: "Archeology Tracker",
-      dataFile: "./archeology-data.json",
+      dataFile: "./Assests/archeology-data.json",
     },
     fish: {
       title: "Fish Tracker",
-      dataFile: "./fish-data.json",
+      dataFile: "./Assests/fish-data.json",
     },
     flora: {
       title: "Flora Tracker",
-      dataFile: "./flora-data.json",
+      dataFile: "./Assests/flora-data.json",
     },
     insects: {
-      title: "Insects Tracker",
-      dataFile: "./insects-data.json",
+      title: "Insect Tracker",
+      dataFile: "./Assests/insects-data.json",
     },
   };
   
