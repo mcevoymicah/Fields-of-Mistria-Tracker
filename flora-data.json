@@ -1,7 +1,7 @@
 [
   {
     "Image": "https://fieldsofmistria.wiki.gg/images/c/cc/Cabbage.png",
-    "Crop": "Cabbage",
+    "Name": "Cabbage",
     "Growth Rate": 9,
     "Seed Price at The General Store": 70,
     "Season": "Spring",
@@ -11,7 +11,7 @@
   },
   {
     "Image": "https://fieldsofmistria.wiki.gg/images/2/20/Cherry.png",
-    "Crop": "Cherry",
+    "Name": "Cherry",
     "Growth Rate": 14,
     "Seed Price at The General Store": 400,
     "Season": "Spring",
@@ -21,7 +21,7 @@
   },
   {
     "Image": "https://fieldsofmistria.wiki.gg/images/c/c2/Potato.png",
-    "Crop": "Potato",
+    "Name": "Potato",
     "Growth Rate": 6,
     "Seed Price at The General Store": 40,
     "Season": "Spring",
@@ -31,7 +31,7 @@
   },
   {
     "Image": "https://fieldsofmistria.wiki.gg/images/6/6d/Strawberry.png",
-    "Crop": "Strawberry",
+    "Name": "Strawberry",
     "Growth Rate": 5,
     "Seed Price at The General Store": 300,
     "Season": "Spring",
@@ -41,7 +41,7 @@
   },
   {
     "Image": "https://fieldsofmistria.wiki.gg/images/b/b7/Turnip.png",
-    "Crop": "Turnip",
+    "Name": "Turnip",
     "Growth Rate": 4,
     "Seed Price at The General Store": 25,
     "Season": "Spring",
@@ -51,7 +51,7 @@
   },
   {
     "Image": "https://fieldsofmistria.wiki.gg/images/4/4b/Daffodil.png",
-    "Crop": "Daffodil",
+    "Name": "Daffodil",
     "Growth Rate": 4,
     "Seed Price at The General Store": 15,
     "Season": "Spring",
@@ -61,7 +61,7 @@
   },
   {
     "Image": "https://fieldsofmistria.wiki.gg/images/b/b1/Dandelion.png",
-    "Crop": "Dandelion",
+    "Name": "Dandelion",
     "Growth Rate": "",
     "Seed Price at The General Store": "",
     "Season": "Spring",
@@ -71,7 +71,7 @@
   },
   {
     "Image": "https://fieldsofmistria.wiki.gg/images/5/5f/Lilac.png",
-    "Crop": "Lilac",
+    "Name": "Lilac",
     "Growth Rate": "",
     "Seed Price at The General Store": "",
     "Season": "Spring",
@@ -81,7 +81,7 @@
   },
   {
     "Image": "https://fieldsofmistria.wiki.gg/images/d/d4/Snowdrop_anemone.png",
-    "Crop": "Snowdrop Anemone",
+    "Name": "Snowdrop Anemone",
     "Growth Rate": "",
     "Seed Price at The General Store": "",
     "Season": "Spring",
@@ -91,7 +91,7 @@
   },
   {
     "Image": "https://fieldsofmistria.wiki.gg/images/c/cf/Tulip.png",
-    "Crop": "Tulip",
+    "Name": "Tulip",
     "Growth Rate": 6,
     "Seed Price at The General Store": 20,
     "Season": "Spring",
@@ -101,7 +101,7 @@
   },
   {
     "Image": "https://fieldsofmistria.wiki.gg/images/f/f7/Fennel.png",
-    "Crop": "Fennel",
+    "Name": "Fennel",
     "Growth Rate": "",
     "Seed Price at The General Store": "",
     "Season": "Spring",
@@ -111,7 +111,7 @@
   },
   {
     "Image": "https://fieldsofmistria.wiki.gg/images/7/75/Fiddlehead.png",
-    "Crop": "Fiddlehead",
+    "Name": "Fiddlehead",
     "Growth Rate": "",
     "Seed Price at The General Store": "",
     "Season": "Spring",
@@ -121,7 +121,7 @@
   },
   {
     "Image": "https://fieldsofmistria.wiki.gg/images/4/4a/Morel_mushroom.png",
-    "Crop": "Morel Mushroom",
+    "Name": "Morel Mushroom",
     "Growth Rate": "",
     "Seed Price at The General Store": "",
     "Season": "Spring",
@@ -131,7 +131,7 @@
   },
   {
     "Image": "https://fieldsofmistria.wiki.gg/images/4/40/Nettle.png",
-    "Crop": "Nettle",
+    "Name": "Nettle",
     "Growth Rate": "",
     "Seed Price at The General Store": "",
     "Season": "Spring",
@@ -141,7 +141,7 @@
   },
   {
     "Image": "https://fieldsofmistria.wiki.gg/images/d/dd/Wild_leek.png",
-    "Crop": "Wild Leek",
+    "Name": "Wild Leek",
     "Growth Rate": "",
     "Seed Price at The General Store": "",
     "Season": "Spring",
@@ -151,7 +151,7 @@
   },
   {
     "Image": "https://fieldsofmistria.wiki.gg/images/6/60/Chili_pepper.png",
-    "Crop": "Chilli Pepper",
+    "Name": "Chilli Pepper",
     "Growth Rate": 6,
     "Seed Price at The General Store": 40,
     "Season": "Summer",
@@ -161,7 +161,7 @@
   },
   {
     "Image": "https://fieldsofmistria.wiki.gg/images/f/f8/Corn.png",
-    "Crop": "Corn",
+    "Name": "Corn",
     "Growth Rate": 5,
     "Seed Price at The General Store": 300,
     "Season": "Summer",
@@ -171,7 +171,7 @@
   },
   {
     "Image": "https://fieldsofmistria.wiki.gg/images/5/59/Cucumber.png",
-    "Crop": "Cucumber",
+    "Name": "Cucumber",
     "Growth Rate": 4,
     "Seed Price at The General Store": 25,
     "Season": "Summer",
@@ -181,7 +181,7 @@
   },
   {
     "Image": "https://fieldsofmistria.wiki.gg/images/9/9d/Tomato.png",
-    "Crop": "Tomato",
+    "Name": "Tomato",
     "Growth Rate": 5,
     "Seed Price at The General Store": 300,
     "Season": "Summer",
@@ -191,7 +191,7 @@
   },
   {
     "Image": "https://fieldsofmistria.wiki.gg/images/0/06/Watermelon.png",
-    "Crop": "Watermelon",
+    "Name": "Watermelon",
     "Growth Rate": 9,
     "Seed Price at The General Store": 70,
     "Season": "Summer",
@@ -201,7 +201,7 @@
   },
   {
     "Image": "https://fieldsofmistria.wiki.gg/images/2/2c/Catmint.png",
-    "Crop": "Catmint",
+    "Name": "Catmint",
     "Growth Rate": 6,
     "Seed Price at The General Store": 20,
     "Season": "Summer",
@@ -211,7 +211,7 @@
   },
   {
     "Image": "https://fieldsofmistria.wiki.gg/images/6/64/Cosmos.png",
-    "Crop": "Cosmos",
+    "Name": "Cosmos",
     "Growth Rate": 6,
     "Seed Price at The General Store": 20,
     "Season": "Summer",
@@ -221,7 +221,7 @@
   },
   {
     "Image": "https://fieldsofmistria.wiki.gg/images/c/c1/Daisy.png",
-    "Crop": "Daisy",
+    "Name": "Daisy",
     "Growth Rate": 4,
     "Seed Price at The General Store": 10,
     "Season": "Summer",
@@ -231,7 +231,7 @@
   },
   {
     "Image": "https://fieldsofmistria.wiki.gg/images/5/5c/Iris.png",
-    "Crop": "Iris",
+    "Name": "Iris",
     "Growth Rate": "",
     "Seed Price at The General Store": "",
     "Season": "Summer",
@@ -241,7 +241,7 @@
   },
   {
     "Image": "https://fieldsofmistria.wiki.gg/images/3/3c/Marigold.png",
-    "Crop": "Marigold",
+    "Name": "Marigold",
     "Growth Rate": "",
     "Seed Price at The General Store": "",
     "Season": "Summer",
@@ -251,7 +251,7 @@
   },
   {
     "Image": "https://fieldsofmistria.wiki.gg/images/6/6e/Basil.png",
-    "Crop": "Basil",
+    "Name": "Basil",
     "Growth Rate": "",
     "Seed Price at The General Store": "",
     "Season": "Summer",
@@ -261,7 +261,7 @@
   },
   {
     "Image": "https://fieldsofmistria.wiki.gg/images/4/48/Dill.png",
-    "Crop": "Dill",
+    "Name": "Dill",
     "Growth Rate": "",
     "Seed Price at The General Store": "",
     "Season": "Summer",
@@ -271,7 +271,7 @@
   },
   {
     "Image": "https://fieldsofmistria.wiki.gg/images/e/e3/Oregano.png",
-    "Crop": "Oregano",
+    "Name": "Oregano",
     "Growth Rate": "",
     "Seed Price at The General Store": "",
     "Season": "Summer",
@@ -281,7 +281,7 @@
   },
   {
     "Image": "https://fieldsofmistria.wiki.gg/images/f/f8/Sage.png",
-    "Crop": "Sage",
+    "Name": "Sage",
     "Growth Rate": "",
     "Seed Price at The General Store": "",
     "Season": "Summer",
@@ -291,7 +291,7 @@
   },
   {
     "Image": "https://fieldsofmistria.wiki.gg/images/3/3a/Thyme.png",
-    "Crop": "Thyme",
+    "Name": "Thyme",
     "Growth Rate": "",
     "Seed Price at The General Store": "",
     "Season": "Summer",
@@ -301,7 +301,7 @@
   },
   {
     "Image": "https://fieldsofmistria.wiki.gg/images/7/7d/Apple.png",
-    "Crop": "Apple",
+    "Name": "Apple",
     "Growth Rate": 14,
     "Seed Price at The General Store": 400,
     "Season": "Fall",
@@ -311,7 +311,7 @@
   },
   {
     "Image": "https://fieldsofmistria.wiki.gg/images/f/f1/Broccoli.png",
-    "Crop": "Broccoli",
+    "Name": "Broccoli",
     "Growth Rate": 6,
     "Seed Price at The General Store": 40,
     "Season": "Fall",
@@ -321,7 +321,7 @@
   },
   {
     "Image": "https://fieldsofmistria.wiki.gg/images/d/dd/Cranberry.png",
-    "Crop": "Cranberry",
+    "Name": "Cranberry",
     "Growth Rate": 5,
     "Seed Price at The General Store": 300,
     "Season": "Fall",
@@ -331,7 +331,7 @@
   },
   {
     "Image": "https://fieldsofmistria.wiki.gg/images/6/64/Pumpkin.png",
-    "Crop": "Pumpkin",
+    "Name": "Pumpkin",
     "Growth Rate": 9,
     "Seed Price at The General Store": 70,
     "Season": "Fall",
@@ -341,7 +341,7 @@
   },
   {
     "Image": "https://fieldsofmistria.wiki.gg/images/2/27/Sweet_potato.png",
-    "Crop": "Sweet Potato",
+    "Name": "Sweet Potato",
     "Growth Rate": 4,
     "Seed Price at The General Store": 25,
     "Season": "Fall",
@@ -351,7 +351,7 @@
   },
   {
     "Image": "https://fieldsofmistria.wiki.gg/images/7/74/Celosia.png",
-    "Crop": "Celosia",
+    "Name": "Celosia",
     "Growth Rate": 4,
     "Seed Price at The General Store": 15,
     "Season": "Fall",
@@ -361,7 +361,7 @@
   },
   {
     "Image": "https://fieldsofmistria.wiki.gg/images/7/7f/Chrysanthemum.png",
-    "Crop": "Chrysanthemum",
+    "Name": "Chrysanthemum",
     "Growth Rate": 6,
     "Seed Price at The General Store": 20,
     "Season": "Fall",
@@ -371,7 +371,7 @@
   },
   {
     "Image": "https://fieldsofmistria.wiki.gg/images/2/23/Fog_orchid.png",
-    "Crop": "Fog Orchid",
+    "Name": "Fog Orchid",
     "Growth Rate": "",
     "Seed Price at The General Store": "",
     "Season": "Fall",
@@ -381,7 +381,7 @@
   },
   {
     "Image": "https://fieldsofmistria.wiki.gg/images/4/46/Heather.png",
-    "Crop": "Heather",
+    "Name": "Heather",
     "Growth Rate": "",
     "Seed Price at The General Store": "",
     "Season": "Fall",
@@ -391,7 +391,7 @@
   },
   {
     "Image": "https://fieldsofmistria.wiki.gg/images/4/48/Viola.png",
-    "Crop": "Viola",
+    "Name": "Viola",
     "Growth Rate": "",
     "Seed Price at The General Store": "",
     "Season": "Fall",
@@ -401,7 +401,7 @@
   },
   {
     "Image": "https://fieldsofmistria.wiki.gg/images/4/47/Chestnut.png",
-    "Crop": "Chestnut",
+    "Name": "Chestnut",
     "Growth Rate": "",
     "Seed Price at The General Store": "",
     "Season": "Fall",
@@ -411,7 +411,7 @@
   },
   {
     "Image": "https://fieldsofmistria.wiki.gg/images/c/cc/Garlic.png",
-    "Crop": "Garlic",
+    "Name": "Garlic",
     "Growth Rate": "",
     "Seed Price at The General Store": "",
     "Season": "Fall",
@@ -421,7 +421,7 @@
   },
   {
     "Image": "https://fieldsofmistria.wiki.gg/images/7/7b/Horseradish.png",
-    "Crop": "Horseradish",
+    "Name": "Horseradish",
     "Growth Rate": "",
     "Seed Price at The General Store": "",
     "Season": "Fall",
@@ -431,7 +431,7 @@
   },
   {
     "Image": "https://fieldsofmistria.wiki.gg/images/6/63/Moon_fruit.png",
-    "Crop": "Moon Fruit",
+    "Name": "Moon Fruit",
     "Growth Rate": "",
     "Seed Price at The General Store": "",
     "Season": "Fall",
@@ -441,7 +441,7 @@
   },
   {
     "Image": "https://fieldsofmistria.wiki.gg/images/7/76/Rosemary.png",
-    "Crop": "Rosemary",
+    "Name": "Rosemary",
     "Growth Rate": "",
     "Seed Price at The General Store": "",
     "Season": "Fall",
@@ -451,7 +451,7 @@
   },
   {
     "Image": "https://fieldsofmistria.wiki.gg/images/a/a4/Beet.png",
-    "Crop": "Beet",
+    "Name": "Beet",
     "Growth Rate": 4,
     "Seed Price at The General Store": 25,
     "Season": "Winter",
@@ -461,7 +461,7 @@
   },
   {
     "Image": "https://fieldsofmistria.wiki.gg/images/a/aa/Cauliflower.png",
-    "Crop": "Cauliflower",
+    "Name": "Cauliflower",
     "Growth Rate": 6,
     "Seed Price at The General Store": 40,
     "Season": "Winter",
@@ -471,7 +471,7 @@
   },
   {
     "Image": "https://fieldsofmistria.wiki.gg/images/0/0e/Daikon_radish.png",
-    "Crop": "Daikon Radish",
+    "Name": "Daikon Radish",
     "Growth Rate": 9,
     "Seed Price at The General Store": 70,
     "Season": "Winter",
@@ -481,7 +481,7 @@
   },
   {
     "Image": "https://fieldsofmistria.wiki.gg/images/1/1b/Pomegranate.png",
-    "Crop": "Pomegranate",
+    "Name": "Pomegranate",
     "Growth Rate": 14,
     "Seed Price at The General Store": 400,
     "Season": "Winter",
@@ -491,7 +491,7 @@
   },
   {
     "Image": "https://fieldsofmistria.wiki.gg/images/f/ff/Snow_peas.png",
-    "Crop": "Snow Peas",
+    "Name": "Snow Peas",
     "Growth Rate": 5,
     "Seed Price at The General Store": 300,
     "Season": "Winter",
@@ -501,7 +501,7 @@
   },
   {
     "Image": "https://fieldsofmistria.wiki.gg/images/2/2f/Crocus.png",
-    "Crop": "Crocus",
+    "Name": "Crocus",
     "Growth Rate": "",
     "Seed Price at The General Store": "",
     "Season": "Winter",
@@ -511,7 +511,7 @@
   },
   {
     "Image": "https://fieldsofmistria.wiki.gg/images/d/d0/Frost_lily.png",
-    "Crop": "Frost Lily",
+    "Name": "Frost Lily",
     "Growth Rate": 4,
     "Seed Price at The General Store": 15,
     "Season": "Winter",
@@ -521,7 +521,7 @@
   },
   {
     "Image": "https://fieldsofmistria.wiki.gg/images/c/c1/Jasmine.png",
-    "Crop": "Jasmine",
+    "Name": "Jasmine",
     "Growth Rate": 3,
     "Seed Price at The General Store": "",
     "Season": "Winter",
@@ -531,7 +531,7 @@
   },
   {
     "Image": "https://fieldsofmistria.wiki.gg/images/3/3a/Poinsettia.png",
-    "Crop": "Poinsetta",
+    "Name": "Poinsetta",
     "Growth Rate": 6,
     "Seed Price at The General Store": 20,
     "Season": "Winter",
@@ -541,7 +541,7 @@
   },
   {
     "Image": "https://fieldsofmistria.wiki.gg/images/2/23/Snapdragon.png",
-    "Crop": "Snap Dragon",
+    "Name": "Snap Dragon",
     "Growth Rate": "",
     "Seed Price at The General Store": "",
     "Season": "Winter",
@@ -551,7 +551,7 @@
   },
   {
     "Image": "https://fieldsofmistria.wiki.gg/images/5/56/Burdock_root.png",
-    "Crop": "Burdock Root",
+    "Name": "Burdock Root",
     "Growth Rate": 3,
     "Seed Price at The General Store": "",
     "Season": "Winter",
@@ -561,7 +561,7 @@
   },
   {
     "Image": "https://fieldsofmistria.wiki.gg/images/b/b8/Holly.png",
-    "Crop": "Holly",
+    "Name": "Holly",
     "Growth Rate": "",
     "Seed Price at The General Store": "",
     "Season": "Winter",
@@ -571,7 +571,7 @@
   },
   {
     "Image": "https://fieldsofmistria.wiki.gg/images/4/42/Oyster_mushroom.png",
-    "Crop": "Oyster Mushroom",
+    "Name": "Oyster Mushroom",
     "Growth Rate": "",
     "Seed Price at The General Store": "",
     "Season": "Winter",
@@ -581,7 +581,7 @@
   },
   {
     "Image": "https://fieldsofmistria.wiki.gg/images/3/38/Pineshroom.png",
-    "Crop": "Pineshroom",
+    "Name": "Pineshroom",
     "Growth Rate": "",
     "Seed Price at The General Store": "",
     "Season": "Winter",
@@ -591,7 +591,7 @@
   },
   {
     "Image": "https://fieldsofmistria.wiki.gg/images/5/56/Rose_hip.png",
-    "Crop": "Rose Hip",
+    "Name": "Rose Hip",
     "Growth Rate": "",
     "Seed Price at The General Store": "",
     "Season": "Winter",
@@ -601,7 +601,7 @@
   },
   {
     "Image": "https://fieldsofmistria.wiki.gg/images/e/e8/Crystal_berries.png",
-    "Crop": "Crystal Berries",
+    "Name": "Crystal Berries",
     "Growth Rate": "",
     "Seed Price at The General Store": "",
     "Season": "All",
@@ -611,7 +611,7 @@
   },
   {
     "Image": "https://fieldsofmistria.wiki.gg/images/f/f6/Crystal_rose.png",
-    "Crop": "Crystal Rose",
+    "Name": "Crystal Rose",
     "Growth Rate": "",
     "Seed Price at The General Store": "",
     "Season": "All",
@@ -621,7 +621,7 @@
   },
   {
     "Image": "https://fieldsofmistria.wiki.gg/images/8/83/Earthshroom.png",
-    "Crop": "Earthshroom",
+    "Name": "Earthshroom",
     "Growth Rate": "",
     "Seed Price at The General Store": "",
     "Season": "All",
@@ -631,7 +631,7 @@
   },
   {
     "Image": "https://fieldsofmistria.wiki.gg/images/0/06/Rockroot.png",
-    "Crop": "Rockroot",
+    "Name": "Rockroot",
     "Growth Rate": "",
     "Seed Price at The General Store": "",
     "Season": "All",
@@ -641,7 +641,7 @@
   },
   {
     "Image": "https://fieldsofmistria.wiki.gg/images/e/e8/Shale_grass.png",
-    "Crop": "Shale Grass",
+    "Name": "Shale Grass",
     "Growth Rate": "",
     "Seed Price at The General Store": "",
     "Season": "All",
@@ -651,7 +651,7 @@
   },
   {
     "Image": "https://fieldsofmistria.wiki.gg/images/a/aa/Jade_dulse.png",
-    "Crop": "Jade Dulse",
+    "Name": "Jade Dulse",
     "Growth Rate": "",
     "Seed Price at The General Store": "",
     "Season": "All",
@@ -661,7 +661,7 @@
   },
   {
     "Image": "https://fieldsofmistria.wiki.gg/images/d/d2/Mines_mussels.png",
-    "Crop": "Mines Mussels",
+    "Name": "Mines Mussels",
     "Growth Rate": "",
     "Seed Price at The General Store": "",
     "Season": "All",
@@ -671,7 +671,7 @@
   },
   {
     "Image": "https://fieldsofmistria.wiki.gg/images/1/14/Sea_grapes.png",
-    "Crop": "Sea Grapes",
+    "Name": "Sea Grapes",
     "Growth Rate": "",
     "Seed Price at The General Store": "",
     "Season": "All",
@@ -681,7 +681,7 @@
   },
   {
     "Image": "https://fieldsofmistria.wiki.gg/images/9/9a/Tide_lettuce.png",
-    "Crop": "Tide Lettuce",
+    "Name": "Tide Lettuce",
     "Growth Rate": "",
     "Seed Price at The General Store": "",
     "Season": "All",
@@ -691,7 +691,7 @@
   },
   {
     "Image": "https://fieldsofmistria.wiki.gg/images/7/76/Underseaweed.png",
-    "Crop": "Underseaweed",
+    "Name": "Underseaweed",
     "Growth Rate": "",
     "Seed Price at The General Store": "",
     "Season": "All",
@@ -701,7 +701,7 @@
   },
   {
     "Image": "https://fieldsofmistria.wiki.gg/images/a/a5/Narrows_moss.png",
-    "Crop": "Narrows Moss",
+    "Name": "Narrows Moss",
     "Growth Rate": "",
     "Seed Price at The General Store": "",
     "Season": "All",
@@ -711,7 +711,7 @@
   },
   {
     "Image": "https://fieldsofmistria.wiki.gg/images/c/c3/Red_toadstool.png",
-    "Crop": "Red Toadstool",
+    "Name": "Red Toadstool",
     "Growth Rate": "",
     "Seed Price at The General Store": "",
     "Season": "All",
@@ -721,7 +721,7 @@
   },
   {
     "Image": "https://fieldsofmistria.wiki.gg/images/c/c7/Shadow_flower.png",
-    "Crop": "Shadow Flower",
+    "Name": "Shadow Flower",
     "Growth Rate": "",
     "Seed Price at The General Store": "",
     "Season": "All",
@@ -731,7 +731,7 @@
   },
   {
     "Image": "https://fieldsofmistria.wiki.gg/images/3/3e/Sweetroot.png",
-    "Crop": "Sweetroot",
+    "Name": "Sweetroot",
     "Growth Rate": "",
     "Seed Price at The General Store": "",
     "Season": "All",
@@ -741,7 +741,7 @@
   },
   {
     "Image": "https://fieldsofmistria.wiki.gg/images/2/2e/Upper_mines_mushroom.png",
-    "Crop": "Upper Mines Mushroom",
+    "Name": "Upper Mines Mushroom",
     "Growth Rate": "",
     "Seed Price at The General Store": "",
     "Season": "All",
