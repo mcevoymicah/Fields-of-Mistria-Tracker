@@ -45,15 +45,11 @@ let category = "";
 // update the title, images, and background color based on the selected category
 function updateTitleImages(selectedCategory) {
   const categoryData = categoryMap[selectedCategory];
-  if (!categoryData) {
-      console.error("Invalid category:", selectedCategory);
-      return;
-  }
-
+ 
   document.getElementById("tracker-title").textContent = categoryData.title;
   document.querySelector(".background").style.backgroundColor = categoryData.backgroundColour;
 
-  // Dynamically set the body background color
+  // body background color
   document.body.style.backgroundColor = categoryData.backgroundColour;
 
   const leftImage = document.getElementById("left-title-image");
@@ -68,41 +64,36 @@ function updateTitleImages(selectedCategory) {
 
 // fetch JSON data
 async function fetchData(file) {
-  try {
-      console.log("Fetching data from:", file);
+  toString
       const response = await fetch(file);
-      if (!response.ok) {
-          throw new Error(`Failed to fetch data: ${response.status}`);
-      }
       const data = await response.json();
-      console.log("Fetched data:", data);
       return data;
-  } catch (error) {
-      console.error("Error fetching data:", error);
-      throw error;
-  }
+  
 }
 
 // render donation containers with overlays and styles
 function renderDonationContainer(setName, items) {
+
+    // main container
   const container = document.createElement("div");
   container.classList.add("donation-container");
 
-  // overlay
+  // create overlay
   const overlay = document.createElement("div");
   overlay.classList.add("overlay");
 
+  // add overlay
   const categoryData = categoryMap[category];
-
   const overlayImage = document.createElement("img");
-  overlayImage.src = categoryData.overlayImage;
-  overlayImage.alt = "Overlay";
+  overlayImage.src = categoryData.overlayImage; // fetched based on category
   overlayImage.classList.add("overlay-image");
 
+  // adds the title for the set
   const title = document.createElement("h2");
   title.textContent = setName;
   title.classList.add("set-title");
 
+  // append elements to container
   overlay.appendChild(overlayImage);
   overlay.appendChild(title);
   container.appendChild(overlay);
@@ -111,28 +102,33 @@ function renderDonationContainer(setName, items) {
   const itemsContainer = document.createElement("div");
   itemsContainer.classList.add("donation-items");
 
+  // render each donation item
   items.forEach((item) => {
       const itemDiv = document.createElement("div");
       itemDiv.classList.add("donation-item");
-
+      
+      // styles each based on category 
       itemDiv.style.backgroundColor = categoryData.itemColour;
       itemDiv.style.borderColor = categoryData.itemOutline;
 
+      // adds item image
       const img = document.createElement("img");
-      img.src = item.Image;
-      img.alt = item.Name;
+      img.src = item.Image;;
       img.classList.add("item-image");
 
+      // item name
       const name = document.createElement("span");
       name.textContent = item.Name;
       name.classList.add("item-name");
 
+      // adds donation toggle
       const toggle = document.createElement("img");
       toggle.src = "./Assests/spr_ui_generic_icon_museum_off.png";
       toggle.alt = "Donation status";
       toggle.classList.add("donation-toggle");
       toggle.dataset.donated = "no";
 
+      // switch on/off donated
       toggle.addEventListener("click", () => {
           if (toggle.dataset.donated === "no") {
               toggle.src = "./Assests/spr_ui_generic_icon_museum_on.png";
@@ -143,29 +139,42 @@ function renderDonationContainer(setName, items) {
           }
       });
 
+      // appends items to container
       itemDiv.appendChild(img);
       itemDiv.appendChild(name);
       itemDiv.appendChild(toggle);
       itemsContainer.appendChild(itemDiv);
   });
 
+  // appeds to main container
   container.appendChild(itemsContainer);
   return container;
 }
 
 // initialize search functionality
 function initializeSearch() {
+
+    // input triggers everytime user types
   document.getElementById("search-bar").addEventListener("input", (event) => {
-      const query = event.target.value.toLowerCase();
+     
+    // gets current value and converts it to lowercase (to avoid case sensitivity
+    const query = event.target.value.toLowerCase();
+
+    // clears the container so previous items dont persist 
       const trackerContainer = document.getElementById("tracker-container");
       trackerContainer.innerHTML = ""; // clear current displayed items
 
       let hasResults = false; // track if any matches are found
 
+      // loop throught the name of the set and items
       for (const [setName, items] of Object.entries(groupedData)) {
+
+        // filters items in current group to find names that match
           const filteredItems = items.filter((item) =>
               item.Name.toLowerCase().includes(query)
           );
+
+          // renders what matches
           if (filteredItems.length > 0) {
               const container = renderDonationContainer(setName, filteredItems);
               trackerContainer.appendChild(container);
@@ -173,6 +182,7 @@ function initializeSearch() {
           }
       }
 
+      // if no results are found
       if (!hasResults) {
           const noResults = document.createElement("div");
           noResults.textContent = "No results found.";
@@ -185,31 +195,44 @@ function initializeSearch() {
 
 // main function to initialize the page
 async function main() {
+    // extracts category from url (eg ?category=archeology)
   const urlParams = new URLSearchParams(window.location.search);
-  category = urlParams.get("category") || "archeology"; // Set category globally
+  category = urlParams.get("category") || "archeology"; // if no category present, default to archeology
 
+  // updates to reflect selected category
   updateTitleImages(category);
 
-  try {
+
+// fetches data for selected category
       const data = await fetchData(categoryMap[category].dataFile);
+
+      // groups items by museum set by iterating through each item
       groupedData = data.reduce((acc, item) => {
+
+        // extracting the name
           const setName = item["Museum Set"];
+
+          // if a group doesnt exist it initializes it 
           if (!acc[setName]) acc[setName] = [];
+
+          // adds it to the proper group
           acc[setName].push(item);
           return acc;
       }, {});
 
+      // renders the sets 
       const trackerContainer = document.getElementById("tracker-container");
+
+      // loops through each group 
       for (const [setName, items] of Object.entries(groupedData)) {
+
+        // creates container for each set
           const container = renderDonationContainer(setName, items);
           trackerContainer.appendChild(container);
       }
 
+      // search 
       initializeSearch();
-  } catch (error) {
-      console.error("Error initializing main:", error);
-      document.getElementById("tracker-container").textContent = "Error loading data. Please try again later.";
-  }
 }
 
 // run the main function
