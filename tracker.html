@@ -9,18 +9,28 @@
 <body>
   <div class="background">
     <header class="title">
+      <!-- back Button -->
+    <a href="index.html" class="back-button">
+      <img src="./Assests/Menu-Button.png" alt="Back Button" class="back-image">
+      <span class="back-text">Back</span>
+    </a>
+
+      <div class="tracker-title-container">
+        <img id="left-title-image" src="" alt="Left Image" class="title-image">
       <h1 id="tracker-title">Tracker</h1>
+      <img id="right-title-image" src="" alt="Right Image" class="title-image">
     </header>
 
-    <!-- to menu -->
-    <a href="index.html" class="button-container">
-        <img src="./Assests/Menu-Button.png" alt="Back" class="pixel-button">
-        <span class="button-text">Back to Menu</span>
-      </a>
+    <div class="button-bar">
+      <!-- search Bar -->
+      <div class="search-container">
+        <img src="./Assests/Search-Button.png" alt="Search Bar Background" class="search-background">
+        <input type="text" id="search-bar" placeholder="Name or Set" class="search-input">
+      </div>
+    </div>
 
     <!-- donation containers -->
     <div id="tracker-container" class="tracker-container"></div>
-
   </div>
   <script type="module" src="tracker.js"></script>
 </body>
