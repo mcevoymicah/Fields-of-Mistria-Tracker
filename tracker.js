@@ -15,7 +15,7 @@ const categoryMap = {
       titleImage: "./Assests/spr_ui_museum_fish_wing_button_default.png",
       backgroundColour: "#bac8db",
       overlayImage: "./Assests/museum_foreground_fish.png",
-      itemColour: "#a1a5b4",
+      itemColour: "#9aa8bb",
       itemOutline: "#777d8a",
   },
   flora: {
@@ -24,7 +24,7 @@ const categoryMap = {
       titleImage: "./Assests/spr_ui_museum_flora_wing_button_default.png",
       backgroundColour: "#b6cdcf",
       overlayImage: "./Assests/museum_foreground_flora.png",
-      itemColour: "#9fa9ab",
+      itemColour: "#96adaf",
       itemOutline: "#748081",
   },
   insects: {
@@ -33,7 +33,7 @@ const categoryMap = {
       titleImage: "./Assests/spr_ui_museum_insects_wing_button_default.png",
       backgroundColour: "#d0bdd9",
       overlayImage: "./Assests/museum_foreground_insects.png",
-      itemColour: "#b29eb2",
+      itemColour: "#b09db9",
       itemOutline: "#887689",
   },
 };
@@ -180,6 +180,8 @@ function initializeSearch() {
               trackerContainer.appendChild(container);
               hasResults = true;
           }
+
+          
       }
 
       // if no results are found
