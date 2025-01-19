@@ -194,17 +194,18 @@ function renderDonationContainer(setName, items) {
               const detail = document.createElement("div");
               detail.classList.add("detail-row");
 
-              // Add icons in front of the keywords
-              let fieldValue = item[field];
+              // add icons in front of the keywords
+              let fieldValue = item[field] || "N/A";
+              
               Object.keys(keywordIcons).forEach((keyword) => {
-                  if (fieldValue.includes(keyword)) {
-                      const iconHTML = `<img src="${keywordIcons[keyword]}" class="season-icon" alt="${keyword} Icon"> ${keyword}`;
-                      fieldValue = fieldValue.replace(
-                          new RegExp(`\\b${keyword}\\b`, "g"),
-                          `${iconHTML}`
-                      );
-                  }
-              });
+                const regex = new RegExp(`\\b${keyword.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')}\\b`, "g");
+
+                if (regex.test(fieldValue)) {
+                    const iconHTML = `<img src="${keywordIcons[keyword]}" 
+                    class="season-icon" alt="${keyword} Icon"> ${keyword}`;
+                    fieldValue = fieldValue.replace(regex, iconHTML);
+                }
+            });
 
               detail.innerHTML = `<strong>${field}:</strong> ${fieldValue}`;
               details.appendChild(detail);
@@ -315,6 +316,7 @@ async function main() {
 
       // search 
       initializeSearch();
+      
 }
 
 // run the main function
