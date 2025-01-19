@@ -31,11 +31,12 @@ body {
 /* title image styling */
 .title-image {
     image-rendering: pixelated;
-    width: 300%; 
     display: block; 
     margin-left: 50%; 
     transform: translateX(-50%); 
     margin-bottom: 5%; 
+    width: clamp(50vw, 70vh, 120vh); /* dynamically adjusts */
+    max-width: 90%; 
 }
 
 /* menu styling */
@@ -43,16 +44,6 @@ body {
     display: flex;
     flex-direction: column;
     align-items: center; 
-}
-
-/* pixel button image styling */
-.pixel-button {
-    image-rendering: pixelated; /* preserve  pixelation */
-    display: block;
-    width: 200px; 
-    height: auto; 
-    cursor: pointer;
-    transition: opacity 0.2s ease; 
 }
 
 /* hover effect */

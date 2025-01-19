@@ -23,6 +23,13 @@ body {
     height: 40px; 
   }
 
+  @media (max-width: 400px) {
+    .back-button  {
+      top: 30px; 
+      left: 10%;
+    }
+  }
+
   .back-image {
     width: 150%;
     height: 100%;
@@ -45,8 +52,15 @@ body {
 /* title*/
 .title {
     text-align: center;
-   padding-top: 50px;
+   padding-top: 60px;
   } 
+
+  @media (max-width: 400px) {
+    .title {
+      padding-top: 100px;
+      margin: 20px;
+    }
+  }
 
   .tracker-title-container {
     display: flex;
@@ -110,14 +124,21 @@ body {
 /* donation container */
 .donation-container {
     position: relative;
-    width: 400px; 
+    width: 90%; 
+    max-width: 400px;
     height: 900px;
     margin: 15px auto;
-    overflow: hidden;
+    overflow: visible;
     display: flex;
     flex-direction: column;
     align-items: center;
     margin-bottom: -370px;
+}
+
+@media (max-width: 400px) {
+  .donation-container {
+    margin-bottom: -450px;
+  }
 }
 
 /* overlay */
@@ -128,6 +149,12 @@ body {
     width: 100%;
     height: 59%;
     z-index: 1; 
+}
+
+@media (max-width: 400px) {
+  .overlay {
+    height: 54.5%;
+  }
 }
 
 .overlay-image {
@@ -161,6 +188,13 @@ body {
     z-index: 3;
     display: flex;
     flex-direction: column;
+}
+
+@media (max-width: 400px) {
+  .donation-items {
+    height: 40%;
+    image-rendering: pixelated;
+  }
 }
 
 

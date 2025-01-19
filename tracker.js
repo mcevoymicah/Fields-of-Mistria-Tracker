@@ -99,8 +99,6 @@ function renderDonationContainer(setName, items) {
   const container = document.createElement("div");
   container.classList.add("donation-container");
 
-  
-
   // create overlay
   const overlay = document.createElement("div");
   overlay.classList.add("overlay");
@@ -159,7 +157,21 @@ function renderDonationContainer(setName, items) {
       toggle.src = "./Assests/spr_ui_generic_icon_museum_off.png";
       toggle.alt = "Donation status";
       toggle.classList.add("donation-toggle");
-      toggle.dataset.donated = "no";
+
+      // unique identifier for local Storage
+      const toggleId = `${setName}-${item.Name}`; // generate a unique key based on setName and item.Name
+
+      // restore state from local storage
+      const savedState = localStorage.getItem(toggleId);
+      if (savedState) {
+          toggle.dataset.donated = savedState;
+          toggle.src =
+              savedState === "yes"
+                  ? "./Assests/spr_ui_generic_icon_museum_on.png"
+                  : "./Assests/spr_ui_generic_icon_museum_off.png";
+      } else {
+          toggle.dataset.donated = "no"; // default state
+      }
 
       // switch on/off donated
       toggle.addEventListener("click", () => {
@@ -170,6 +182,8 @@ function renderDonationContainer(setName, items) {
               toggle.src = "./Assests/spr_ui_generic_icon_museum_off.png";
               toggle.dataset.donated = "no";
           }
+
+          localStorage.setItem(toggleId, toggle.dataset.donated);
       });
 
        // Dropdown arrow
@@ -201,8 +215,7 @@ function renderDonationContainer(setName, items) {
                 const regex = new RegExp(`\\b${keyword.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')}\\b`, "g");
 
                 if (regex.test(fieldValue)) {
-                    const iconHTML = `<img src="${keywordIcons[keyword]}" 
-                    class="season-icon" alt="${keyword} Icon"> ${keyword}`;
+                    const iconHTML = `<img src="${keywordIcons[keyword]}" class="season-icon" alt="${keyword} Icon"> ${keyword}`;
                     fieldValue = fieldValue.replace(regex, iconHTML);
                 }
             });
