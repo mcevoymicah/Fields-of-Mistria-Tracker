@@ -8,6 +8,7 @@ const categoryMap = {
       overlayImage: "./Assests/museum_foreground_archeology.png",
       itemColour: "#b2a29f",
       itemOutline: "#877975",
+      displayFields: ["Location", "Comment"],
   },
   fish: {
       title: "Fish Tracker",
@@ -17,6 +18,7 @@ const categoryMap = {
       overlayImage: "./Assests/museum_foreground_fish.png",
       itemColour: "#9aa8bb",
       itemOutline: "#777d8a",
+      displayFields: ["Season", "Weather", "Location", "Comment"],
   },
   flora: {
       title: "Flora Tracker",
@@ -26,6 +28,7 @@ const categoryMap = {
       overlayImage: "./Assests/museum_foreground_flora.png",
       itemColour: "#96adaf",
       itemOutline: "#748081",
+      displayFields: ["Growth Rate", "Seed Price (General Store)", "Season", "Location", "Comment"],
   },
   insects: {
       title: "Insect Tracker",
@@ -35,8 +38,26 @@ const categoryMap = {
       overlayImage: "./Assests/museum_foreground_insects.png",
       itemColour: "#b09db9",
       itemOutline: "#887689",
+      displayFields: ["Season", "Weather", "Time", "Comment"],
   },
 };
+
+const keywordIcons = {
+  Spring: "https://fieldsofmistria.wiki.gg/images/c/cc/Season_icon_spring.png",
+  Summer: "https://fieldsofmistria.wiki.gg/images/3/31/Season_icon_summer.png",
+  Fall: "https://fieldsofmistria.wiki.gg/images/6/61/Fp_wiki_season_fall.png",
+  Winter: "https://fieldsofmistria.wiki.gg/images/d/d0/Fp_wiki_season_winter.png",
+  Sunny: "https://fieldsofmistria.wiki.gg/images/4/44/Weather_icon_sunny.png",
+  Petals: "https://fieldsofmistria.wiki.gg/images/c/ce/Weather_icon_petals.png",
+  Leaves: "https://fieldsofmistria.wiki.gg/images/a/a0/Weather_icon_leaves.png",
+  Rain: "https://fieldsofmistria.wiki.gg/images/1/16/Weather_icon_rainy.png",
+  Rainy: "https://fieldsofmistria.wiki.gg/images/5/5e/Weather_icon_rain.png",
+  Storm: "https://fieldsofmistria.wiki.gg/images/e/ef/Weather_icon_storm.png",
+  Thunderstorm: "https://fieldsofmistria.wiki.gg/images/0/03/Weather_icon_thunderstorm.png",
+  Snowy: "https://fieldsofmistria.wiki.gg/images/6/67/Weather_icon_snow.png",
+  Blizzard:"https://fieldsofmistria.wiki.gg/images/d/dc/Weather_icon_blizzard.png",
+};
+
 
 // global variable 
 let groupedData = {};
@@ -78,6 +99,8 @@ function renderDonationContainer(setName, items) {
   const container = document.createElement("div");
   container.classList.add("donation-container");
 
+  
+
   // create overlay
   const overlay = document.createElement("div");
   overlay.classList.add("overlay");
@@ -87,6 +110,11 @@ function renderDonationContainer(setName, items) {
   const overlayImage = document.createElement("img");
   overlayImage.src = categoryData.overlayImage; // fetched based on category
   overlayImage.classList.add("overlay-image");
+
+  // Set custom properties dynamically
+  container.style.setProperty("--itemColour", categoryData.itemColour);
+  container.style.setProperty("--itemOutline", categoryData.itemOutline);
+
 
   // adds the title for the set
   const title = document.createElement("h2");
@@ -110,6 +138,11 @@ function renderDonationContainer(setName, items) {
       // styles each based on category 
       itemDiv.style.backgroundColor = categoryData.itemColour;
       itemDiv.style.borderColor = categoryData.itemOutline;
+
+      // Basic information container
+      const basicInfo = document.createElement("div");
+      basicInfo.classList.add("basic-info");
+
 
       // adds item image
       const img = document.createElement("img");
@@ -139,12 +172,54 @@ function renderDonationContainer(setName, items) {
           }
       });
 
-      // appends items to container
-      itemDiv.appendChild(img);
-      itemDiv.appendChild(name);
-      itemDiv.appendChild(toggle);
-      itemsContainer.appendChild(itemDiv);
-  });
+       // Dropdown arrow
+       const arrow = document.createElement("span");
+       arrow.classList.add("dropdown-arrow");
+       arrow.textContent = "▼";
+
+     
+        // Append to basic info container
+        basicInfo.appendChild(img);
+        basicInfo.appendChild(name);
+        basicInfo.appendChild(toggle);
+        basicInfo.appendChild(arrow);
+        itemDiv.appendChild(basicInfo);
+
+        // Additional details container
+        const details = document.createElement("div");
+        details.classList.add("dropdown-details", "hidden");
+
+        categoryData.displayFields.forEach((field) => {
+          if (item[field]) {
+              const detail = document.createElement("div");
+              detail.classList.add("detail-row");
+
+              // Add icons in front of the keywords
+              let fieldValue = item[field];
+              Object.keys(keywordIcons).forEach((keyword) => {
+                  if (fieldValue.includes(keyword)) {
+                      const iconHTML = `<img src="${keywordIcons[keyword]}" class="season-icon" alt="${keyword} Icon"> ${keyword}`;
+                      fieldValue = fieldValue.replace(
+                          new RegExp(`\\b${keyword}\\b`, "g"),
+                          `${iconHTML}`
+                      );
+                  }
+              });
+
+              detail.innerHTML = `<strong>${field}:</strong> ${fieldValue}`;
+              details.appendChild(detail);
+          }
+      });
+
+        // Toggle dropdown details
+        arrow.addEventListener("click", () => {
+            details.classList.toggle("hidden");
+            arrow.textContent = details.classList.contains("hidden") ? "▼" : "▲";
+        });
+
+        itemDiv.appendChild(details);
+        itemsContainer.appendChild(itemDiv);
+    });
 
   // appeds to main container
   container.appendChild(itemsContainer);
@@ -168,6 +243,8 @@ function initializeSearch() {
 
       // loop throught the name of the set and items
       for (const [setName, items] of Object.entries(groupedData)) {
+        // Check if the set name matches the query
+        const setNameMatches = setName.toLowerCase().includes(query);
 
         // filters items in current group to find names that match
           const filteredItems = items.filter((item) =>
@@ -175,8 +252,11 @@ function initializeSearch() {
           );
 
           // renders what matches
-          if (filteredItems.length > 0) {
-              const container = renderDonationContainer(setName, filteredItems);
+          if (setNameMatches || filteredItems.length > 0) {
+              const container = renderDonationContainer(
+                setName,
+                setNameMatches ? items : filteredItems //
+                );
               trackerContainer.appendChild(container);
               hasResults = true;
           }
@@ -189,7 +269,7 @@ function initializeSearch() {
           const noResults = document.createElement("div");
           noResults.textContent = "No results found.";
           noResults.style.textAlign = "center";
-          noResults.style.color = "#877975";
+          noResults.style.color = "--itemOutline";
           trackerContainer.appendChild(noResults);
       }
   });

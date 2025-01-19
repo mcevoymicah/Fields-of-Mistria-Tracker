@@ -13,7 +13,7 @@
     "Name": "Bumblebee",
     "Season": "Spring, Summer, Fall",
     "Weather": "Sunny, Petals, Leaves",
-    "Time": "6AM - 8PM",
+    "Time": "Daytime (6AM - 8PM)",
     "Museum Set": "Multi-Season",
     "Comment": "A common insect found during the daytime in all seasons but winter."
   },
@@ -22,7 +22,7 @@
     "Name": "Fuzzy Moth",
     "Season": "All",
     "Weather": "Sunny, Petals, Leaves",
-    "Time": "8PM - 2AM",
+    "Time": "Night (8PM - 2AM)",
     "Museum Set": "Multi-Season",
     "Comment": "An uncommon insect found at night in all seasons."
   },
@@ -40,7 +40,7 @@
     "Name": "Praying Mantis",
     "Season": "Spring, Summer, Fall",
     "Weather": "Sunny, Petals, Leaves",
-    "Time": "6AM - 8PM",
+    "Time": "Daytime (6AM - 8PM)",
     "Museum Set": "Multi-Season",
     "Comment": "A common insect found during the daytime in all seasons but winter."
   },
@@ -49,7 +49,7 @@
     "Name": "Butterfly",
     "Season": "Spring",
     "Weather": "Sunny, Petals",
-    "Time": "6AM - 8PM",
+    "Time": "Daytime (6AM - 8PM)",
     "Museum Set": "Spring",
     "Comment": "A common insect found during the daytime in spring."
   },
@@ -76,7 +76,7 @@
     "Name": "Luna Moth",
     "Season": "Spring",
     "Weather": "Sunny, Petals",
-    "Time": "8PM - 2AM",
+    "Time": "Night (8PM - 2AM)",
     "Museum Set": "Spring",
     "Comment": "A rare insect found at night in spring."
   },
@@ -103,7 +103,7 @@
     "Name": "Cricket",
     "Season": "Summer",
     "Weather": "Any",
-    "Time": "8PM - 2AM",
+    "Time": "Night (8PM - 2AM)",
     "Museum Set": "Summer",
     "Comment": "A common insect found at night in summer."
   },
@@ -112,7 +112,7 @@
     "Name": "Dragonfly",
     "Season": "Summer",
     "Weather": "Sunny, Rain, Rainy",
-    "Time": "6AM - 8PM",
+    "Time": "Daytime (6AM - 8PM)",
     "Museum Set": "Summer",
     "Comment": "An uncommon insect found during the daytime in summer."
   },
@@ -121,7 +121,7 @@
     "Name": "Firefly",
     "Season": "Summer",
     "Weather": "Sunny",
-    "Time": "8PM - 2AM",
+    "Time": "Night (8PM - 2AM)",
     "Museum Set": "Summer",
     "Comment": "A common insect found at night in summer."
   },
@@ -139,7 +139,7 @@
     "Name": "Cicada Nymph",
     "Season": "Fall",
     "Weather": "Any",
-    "Time": "8PM - 2AM",
+    "Time": "Night (8PM - 2AM)",
     "Museum Set": "Fall",
     "Comment": "A common insect found at night in fall."
   },
@@ -157,7 +157,7 @@
     "Name": "Monarch Butterfly",
     "Season": "Fall",
     "Weather": "Sunny, Leaves",
-    "Time": "6AM - 8PM",
+    "Time": "Daytime (6AM - 8PM)",
     "Museum Set": "Fall",
     "Comment": "A common insect found during the daytime in fall."
   },
@@ -166,7 +166,7 @@
     "Name": "Tiger Swallowtail Butterfly",
     "Season": "Fall",
     "Weather": "Sunny, Leaves",
-    "Time": "6AM - 8PM",
+    "Time": "Daytime (6AM - 8PM)",
     "Museum Set": "Fall",
     "Comment": "An uncommon insect found during the daytime in fall."
   },
@@ -175,7 +175,7 @@
     "Name": "Walking Leaf",
     "Season": "Fall",
     "Weather": "Any",
-    "Time": "6AM - 8PM",
+    "Time": "Daytime (6AM - 8PM)",
     "Museum Set": "Fall",
     "Comment": "An uncommon insect found during the daytime in fall. Sometimes found when shaking trees."
   },
@@ -184,7 +184,7 @@
     "Name": "Brightbulb Moth",
     "Season": "Winter",
     "Weather": "Sunny",
-    "Time": "8PM - 2AM",
+    "Time": "Night (8PM - 2AM)",
     "Museum Set": "Winter",
     "Comment": "A common insect found at night in winter."
   },
@@ -202,7 +202,7 @@
     "Name": "Frost Flutter Butterfly",
     "Season": "Winter",
     "Weather": "Sunny",
-    "Time": "6AM - 8PM",
+    "Time": "Daytime (6AM - 8PM)",
     "Museum Set": "Winter",
     "Comment": "A common insect found during the daytime in winter."
   },
@@ -238,7 +238,7 @@
     "Name": "Lightning Dragonfly",
     "Season": "Spring, Summer, Fall",
     "Weather": "Storm, Thunderstorm",
-    "Time": "6AM - 8PM",
+    "Time": "Daytime (6AM - 8PM)",
     "Museum Set": "Rare",
     "Comment": "A rare insect found during thunderstorms in all seasons but winter."
   },
@@ -256,7 +256,7 @@
     "Name": "Mistmoth",
     "Season": "Fall",
     "Weather": "Sunny, Leaves",
-    "Time": "8PM - 2AM",
+    "Time": "Night (8PM - 2AM)",
     "Museum Set": "Rare",
     "Comment": "A rare insect found at night in fall."
   },
@@ -265,7 +265,7 @@
     "Name": "Orchid Mantis",
     "Season": "Spring",
     "Weather": "Sunny, Petals, Rain, Rainy",
-    "Time": "6AM - 8PM",
+    "Time": "Daytime (6AM - 8PM)",
     "Museum Set": "Rare",
     "Comment": "A rare insect found during the daytime in spring."
   },
@@ -283,7 +283,7 @@
     "Name": "Flower Crown Beetle",
     "Season": "Spring",
     "Weather": "Sunny, Petals",
-    "Time": "6AM - 8PM",
+    "Time": "Daytime (6AM - 8PM)",
     "Museum Set": "Legendary",
     "Comment": "A legendary insect found during the daytime in spring. It's so cute!"
   },
@@ -310,7 +310,7 @@
     "Name": "Strobe Firefly",
     "Season": "Summer",
     "Weather": "Sunny",
-    "Time": "8PM - 2AM",
+    "Time": "Night (8PM - 2AM)",
     "Museum Set": "Legendary",
     "Comment": "A legendary insect found at night in summer. It's mesmerizing!"
   },
@@ -481,7 +481,7 @@
     "Name": "Petalhopper",
     "Season": "Spring",
     "Weather": "Any",
-    "Time": "6AM - 8PM",
+    "Time": "Daytime (6AM - 8PM)",
     "Museum Set": "Grass",
     "Comment": "A common insect found during the daytime in spring. Sometimes found when cutting grass."
   },
