@@ -1,7 +1,7 @@
 # Fields of Mistria Tracker
 
 ## Description
-The Fields of Mistria Tracker is a simple and user-friendly tool designed to help players track their progress in donating crops, animals, and fish in the game *Fields of Mistria*. With an intuitive interface and organized layout, this tracker ensures you never miss a donation!
+The Fields of Mistria Tracker is a simple and user-friendly tool designed to help players track their progress in donating archeology, fish, flora, and insects in the game *Fields of Mistria*. With an intuitive interface and organized layout, this tracker ensures you never miss a donation!
 
 ## Key Features
 - **Donation Tracking**: Keep tabs on your donations with interactive checkboxes.
@@ -15,7 +15,7 @@ The Fields of Mistria Tracker is a simple and user-friendly tool designed to hel
 
 
 2. **Navigate the Interface**:
-   - View donation sets categorized by crops, animals, and fish.
+   - View donation sets categorized by  archeology, fish, flora, and insects 
    ![view](./Assests/view.png)
    - Use the checkboxes to mark items as donated.
     ![view](./Assests/check.png)
@@ -25,7 +25,7 @@ The Fields of Mistria Tracker is a simple and user-friendly tool designed to hel
     ![view](./Assests/search%20set.png)
 
 ## Contributing
-If you want to help improve the *Fields of Mistria* Tracke, here’s how you can get involved:
+If you want to help improve the Fields of Mistria Tracker, here’s how you can get involved:
 - **Report Issues**: Use the GitHub Issues tab to report bugs or suggest features.
 - **Submit Pull Requests**: Fork the repository, make your changes, and submit a pull request for review.
 
